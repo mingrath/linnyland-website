@@ -1,0 +1,367 @@
+{
+  "scrape_date": "2026-04-02",
+  "source": "Facebook Page via Apify",
+  "branding": {
+    "business_name_en": "LinnyLand Fun and Farm",
+    "business_name_th": "ลินนี่แลนด์ ฟัน แอนด์ ฟาร์ม เขาค้อ",
+    "tagline_th": "สวรรค์แห่งรอยยิ้มและความสนุก",
+    "tagline_en": "Paradise of Smiles and Fun",
+    "category": "Amusement & Theme Park",
+    "all_categories": [
+      "Page",
+      "Amusement & Theme Park",
+      "Cafe",
+      "Restaurant"
+    ],
+    "profile_photo_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/554641316_122095657677046512_5652474483081043735_n.jpg?stp=c0.62.437.437a_dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=HZdKMYOMleMQ7kNvwEaoUOk&_nc_oc=AdqLw_6U0jh6nzmQBGHCANOX077tYHVGafAEsbA5t3qYxQKJwGuOnXCJvhRYgp_s8yk&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&_nc_gid=3Lwsaxlplsg9O4SKtA_3ng&_nc_ss=7a389&oh=00_Af27b1c-idRDoEnoE1NzEBka6PYJAjMj7FpOTUQvdBWbeg&oe=69D3ED74",
+    "cover_photo_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/586850732_122111976567046512_3860693932407247875_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=Z8kVpZEukpkQ7kNvwFDVgXq&_nc_oc=AdpE2Nkb852Bj0uji0dY6RpNfAa-804VcVmDqMeFXhKkDMm_O-sr8iUeTaWhIROH65c&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=39pdUJlmbR3dAhY4LWr__Q&_nc_ss=7a389&oh=00_Af2WgMtpZYl0Fa6D6JcKriSs1mq8ESs1InL4SR0cxx71xA&oe=69D3D926",
+    "profile_photo_page": "https://www.facebook.com/photo/?fbid=122095657671046512&set=a.122095651671046512",
+    "page_creation_date": "September 24, 2025"
+  },
+  "contact": {
+    "address": "389 หมู่ที่ 6 ตำบลเข็กน้อย, Khao Kho, Thailand, 67280",
+    "phone": "+66 90 824 2641",
+    "email": "linnyland22@gmail.com",
+    "website": "http://www.linnyland.com/",
+    "website_status": "404 - Not built yet (Wix placeholder)",
+    "line_oa": "https://lin.ee/lZk5GEC",
+    "facebook_url": "https://www.facebook.com/61581395369965",
+    "business_hours": "Open now (exact hours not specified on page)"
+  },
+  "engagement": {
+    "likes": 4893,
+    "followers": 4800,
+    "talking_about": 857,
+    "were_here": 821,
+    "rating": "Not yet rated (0 Reviews)",
+    "ad_status": "Currently running ads"
+  },
+  "all_post_images": [
+    "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/650738384_122125724703046512_8473444940162290907_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=2KnIVzFAmtQQ7kNvwGyaNRO&_nc_oc=AdoFNrT32pfrbee2t-PqMswjuhAEzE8nQdWLQGBSNpFHemE6cReEegHZmD2A48-UlQ8J6n__ycWBodcFmXTMNaFx&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af1R_KY6OvOW9_HCZZyv1N3GLiCx04LLwJyQHMg6D7PihA&oe=69D403CC",
+    "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/651160989_122125724079046512_9089395554438624460_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=M09d-WGnvpYQ7kNvwFlSQRo&_nc_oc=Adqbm6EuVCMf4DZmpm7Gr_DAELufpf345HHngeu0jyVTBvuiQWjlUSCmM3VXfCrG9aNnfFKT5nByLr1pqKMQtok4&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af3LemWa7rosuTqycb2ziMqo5_5x8Zqfvwn5H5ByU3ojww&oe=69D3DCFA",
+    "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/651834031_122125724205046512_7346938771506765401_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZT3gQIY6zfgQ7kNvwE9nuIm&_nc_oc=AdpdQGpfL7llseBAXALVVy4BRhqAszuO_cS4bAdjCA3JVOf5-uouFlppT2U3xP5ZpF89Px74aBJtWREPtPorcAn5&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af2Pp9H_X2p3rvGuyq_83C5qRRjTZ-60zcHTkcJwQd8q6Q&oe=69D3D89E",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/650488986_122125721931046512_2262578684212146192_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=exGGpR9XauwQ7kNvwG7fmvC&_nc_oc=AdqceSGXX58yUNq1MzHTY8DfLxowB7YJeCO5DQY4KlR6awzW3vT5I68uprP6VdTm4NI&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af3kKGo93jYXw9wuk_c5d_CcqZsP4dLxe1tYx97EyuaR-w&oe=69D4056B",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651140442_122125722585046512_6463208316382126640_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=ahzw9925Km8Q7kNvwGFJhYj&_nc_oc=AdpBHNMV9jCp8kUMz-9aaxjWh9nwYU1Tov0g-_4-HBYYlaffOcvjwRBgCrrecwagGJk&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af2mbcx4q8HJ0bK3j040ZuDo0OBu28rlfwcHpCKDTPaYTA&oe=69D3F190",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651364627_122125722753046512_9156812704030458836_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=3QgdnHWp8sUQ7kNvwGJcgER&_nc_oc=AdoOuTow4KN13OmbV0H4nNKxyznNf2Zc7aLjiqRUpeZz1WzqD2ePHnfP9FIXki-dhnk&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af3Sj6xY7_aFBZwfmsn8hBBWnVCjBMbIsgsBkunAGRqMUg&oe=69D40313",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651896726_122125722933046512_1986536813279874424_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=yyOWx3pLHgMQ7kNvwHVynem&_nc_oc=Adpl3Hc81__IooH6v6BhbuX__CF7rqf62HJc4nbfgDciSZgIBAIhtVd0vIS_lJX9nVo&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af2VpoaO6S3oAcpDVcTk6LD-mdqKrj0OFxegJhWxasV8Dw&oe=69D3DDCF",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/653077362_122125720635046512_2056147928796148760_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=iNxARehbYBEQ7kNvwE2i8Hc&_nc_oc=AdoXKR9M-PLELzCEahE7t248C-ZNrYHrCeomycWqsM-OA20tqKthOElqSXsU_92tSGM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af08BqbrynylsJrmBYJw-pl_lIgNxhRoDq0xHB8Ym22wbw&oe=69D3D8A9",
+    "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/653704871_122125720851046512_4922634993472149777_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ysp0xSAVTCgQ7kNvwHtwsXX&_nc_oc=AdqK3rWIdmRrF57WyfTmhjuIf5GKdDlih-3uVEXitbSy_F4269B0eSqjQabPRLbJR9g&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af0KF9MFhHYV0lALtAEu7M5GWKM0KIuxYw0VJdf9EfTyVQ&oe=69D3EABE",
+    "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/648845505_122124928251046512_1429403350404936489_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=vjYUfj81XAgQ7kNvwHHFHi2&_nc_oc=AdpyoGcMUhajFzFgRTiY4VAX18WZJJDaTvqaCyF6nMd_WDT1b4Nu88aJjWg6LFnhcYI&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=O29GR76FpZmjIuUxN1q09g&_nc_ss=7a389&oh=00_Af3jErIl4E85eUONEY09hcD34ix2nxrdcswN9vJDclK9jg&oe=69D3E83A",
+    "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/649141435_122124928845046512_143228671449207487_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=weERmy_nhzMQ7kNvwEmbveF&_nc_oc=AdoBiCzjlIDevAY8JGYH2oYCWc3tpSZtVjQMPrI25X6pZYHst2GoyxDA_i8odvHYMYM&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=O29GR76FpZmjIuUxN1q09g&_nc_ss=7a389&oh=00_Af3vlmi-btqhCZX27pBJ2GeXA2bKmlBhbtst0GEK9zVDpA&oe=69D3E9DD",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/644937562_122124221847046512_811664338748332659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=eSMkBxQ4VqUQ7kNvwFdsCtJ&_nc_oc=AdqbdJVRe-uSjijS5XbuARMQQL9pu5jtqv7JfJLXI_5NvDuhKAHHhAAsbyE8G8IIKNg&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af0MZAhGQGjXgu-6ofz_e11XVj_IzK-he95-1p_2VHdjAg&oe=69D407CC",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/645578736_122124220743046512_8078459594561536980_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=wFSBCJC_zOIQ7kNvwHR5fb6&_nc_oc=AdpODm4ARZEpwCilRjRoGV-peNGOgxNHVPrvqcdycmmqBNNRRCXsWYdvWKhnMsMocMs&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af0blc656vguxtYvFUzxn4916tv1YojfHFiRSaO32gQnww&oe=69D4096E",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/645640477_122124221379046512_394121798826964707_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=MtD-mwHwXPkQ7kNvwGLOmsY&_nc_oc=Adrb-R4cWBZJatBzr44mzN1qfPR0apw2Kpjldo8FmupKbkduQqpJFCWctArl3Ot70iU&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af2jaq33miJMvf3N8EeP2vYyfSox94hP-Ul9W5YpQl65Mg&oe=69D3E9A2",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/651220198_122125722111046512_5709723060786359216_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=aob1TJJV9jsQ7kNvwF_GF9a&_nc_oc=AdoA46Vcea_BZAAhrH5ZQFIVsX5B-q-iUrWruSuzhgJx15N6eUdUPxqCpSD7MfbCqylHkxWgJ1KiqxzSSZTeNOCF&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=0mkG_qsnT71Wr0d0Y7NOSA&_nc_ss=7a389&oh=00_Af3BUIoiieqvWWthdOSZah1XZzkbcMIRWcqzMimYuN7iXQ&oe=69D3EE44",
+    "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/652126994_122125722333046512_1013770222343306255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=UFVHv1QswQcQ7kNvwEMHPUU&_nc_oc=Adpt-N0FVM3tzLbKGd2VcEC1D5NWwhpIMGRTs_YqY3royyLF-bDh4CVnNMT6Eb_86p4RcuQkNjUSz1L2iRLR4F0y&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=0mkG_qsnT71Wr0d0Y7NOSA&_nc_ss=7a389&oh=00_Af0iosTUo0NvIXtgCO1YKMOrrae3bPJ03xbU1S9z83FRow&oe=69D3DD52",
+    "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/651627998_122125720371046512_2797696798786750980_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=HCs5doc488UQ7kNvwEez5dz&_nc_oc=Adq6F8P_srBI5xyJ3Tyx52_dvFV9mI2YhOpCzFu2GI7-Pi05rVCXRIQX7ztVylFJC0M&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af3JXCbtEh3ITeNCo93E7PtRZNGPImSii6hTaKHo8MfYHw&oe=69D3F459",
+    "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/651838949_122125720083046512_8958539515688504931_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=kbhXZROz3_MQ7kNvwHzGrzm&_nc_oc=AdrvDU8vP5WG9nP4YQS_57y0fFERU40OsBgUuTaiN95ZVGvY463gi5Zcpm0FTnUznP8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af0s2E-YdoflJgH-3LZwv4agPf40V15ugrGpoxvtk0Ikpw&oe=69D40507",
+    "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/653705988_122125706787046512_1506607988716650194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=N_bU0Zxe69EQ7kNvwE5mrFp&_nc_oc=Ado0BO8QdDkdzvxzeAATotmH0noEqPSB9vKTHbWiJpVQZ1VUnTtWHFCe_fE-_JTHIm4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af0eXsWTI0a_VDBivsWPMW-t_J7ejnlJCNfsIZzrJKsVbQ&oe=69D3E97B",
+    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/651028548_122125723203046512_3592635718746054585_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=_PjFNKIVQbgQ7kNvwEtO533&_nc_oc=AdpLe_WkzzNy0hMo3Qs8DbRp2RDgHzWomOxzBmA-di2atuzAUN191VbjCY3u8yJ06zM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q2U11fJaPgK3YSpNk7M2mg&_nc_ss=7a389&oh=00_Af0lQtULpyu068i1G8E55zRDpaUaFUgx6ZZi9PzORogA2A&oe=69D3F02F",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/554641316_122095657677046512_5652474483081043735_n.jpg?stp=c0.62.437.437a_dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=HZdKMYOMleMQ7kNvwEaoUOk&_nc_oc=AdqLw_6U0jh6nzmQBGHCANOX077tYHVGafAEsbA5t3qYxQKJwGuOnXCJvhRYgp_s8yk&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&_nc_gid=3Lwsaxlplsg9O4SKtA_3ng&_nc_ss=7a389&oh=00_Af27b1c-idRDoEnoE1NzEBka6PYJAjMj7FpOTUQvdBWbeg&oe=69D3ED74",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/586850732_122111976567046512_3860693932407247875_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=Z8kVpZEukpkQ7kNvwFDVgXq&_nc_oc=AdpE2Nkb852Bj0uji0dY6RpNfAa-804VcVmDqMeFXhKkDMm_O-sr8iUeTaWhIROH65c&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=39pdUJlmbR3dAhY4LWr__Q&_nc_ss=7a389&oh=00_Af2WgMtpZYl0Fa6D6JcKriSs1mq8ESs1InL4SR0cxx71xA&oe=69D3D926",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/649200277_122125259247046512_3082780590433498075_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=_2NUlZiCaNIQ7kNvwHBwntw&_nc_oc=AdqopcHgW-boM4WxzRLNKYkukD0q1jx-Jt8cpFIFu4MqqM_QOblP2aHPI9ltgDOYmaQ&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2cwzXJiG5YgW42gPvMjZFHKFquNS1qqyuIIsLc5IG0vg&oe=69D3E53D",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/650396771_122125598895046512_5698930459419606314_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=P39o7XHdAaoQ7kNvwFMgt11&_nc_oc=AdqLOXDNGoI4hqrHVMjl3ofaFgiWdCT0JLfoKDMKP896an04N_FiJJFnbtBl__m-HO0&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2Vial9Dfb59gXQZWqLdY8HL6NT6o-TqbFEEoLiUtV_wg&oe=69D4019D",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/651174208_122125723533046512_1737278167275495782_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=4N4Ot_o54d0Q7kNvwHniEPP&_nc_oc=AdoHOHMNOvhKMFbnyOXPA4tGyYq_BJyziFgJwhB8-p7BbKRkoiSyQJmzvDFek7FcwvA&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=Q2U11fJaPgK3YSpNk7M2mg&_nc_ss=7a389&oh=00_Af17ZRQtu_yEE8--nBDx2_DGkqGO63zp8OeF4brAahQQUQ&oe=69D40E1F",
+    "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/651333375_122125484625046512_4017060291609631517_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=KYn_z_S806UQ7kNvwF3Luvi&_nc_oc=AdrvO-yRT3cG1eDB2QIWDJ8onJi4GggJmXOUpdGSaZz8CT83lK24UBHJPLkgAnUiJNQ&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2XpcHezMYOyIrqArNcXAOI9TbKNoxzDwWosDwhNAVmJQ&oe=69D40319",
+    "https://scontent.fric1-1.fna.fbcdn.net/v/t39.30808-6/644879589_122124586443046512_8590790398620424150_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=rXA91e_iNk8Q7kNvwGWMgAV&_nc_oc=AdqRn4dPd4ftUkYq2rw8FxaV0591QhS2Q66hCv-PoALp2OYTLNG66VnjqDB-3sBjelo&_nc_zt=23&_nc_ht=scontent.fric1-1.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af3CWeUQHfYcDSWD4QiuL62FDRo5ycMUPi_MOiBTxI8l-Q&oe=69D3D8A5",
+    "https://scontent.fric1-1.fna.fbcdn.net/v/t39.30808-6/646201171_122124694209046512_9219658179131622654_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=b8Fpfk0OBZ8Q7kNvwEzA-ja&_nc_oc=AdqNklteHEKYgqe6UuCnSsqGgWDhGdxWq7G_OUapVfbOIX1j-SV8l1e4N6OaZdJXqu4&_nc_zt=23&_nc_ht=scontent.fric1-1.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af0J6Nhv5aG7Nc_esSl5FMs0YajnSsXg-ZEi4d0elvK0bg&oe=69D3DCF3",
+    "https://scontent.fric1-2.fna.fbcdn.net/v/t39.30808-6/647145432_122124803283046512_4720706191216471644_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=aaC-78vY3aEQ7kNvwE5dTMD&_nc_oc=Adojqc430fiUqB8JavfkCcK97SdngUEx4OJXzpqwWPP4lzH5LalUeVYGVMsOYnpwiVQ&_nc_zt=23&_nc_ht=scontent.fric1-2.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af2GaxQ3C6OmHs7m404SF25nDQdyXnvmERm1m-Wi_XM1JA&oe=69D3F5D5"
+  ],
+  "posts": [
+    {
+      "text": "🏎️ ซิ่งไปให้สุด...แล้วหยุดที่ความฟิน! หนีเมืองกรุงมาสูดอากาศบริสุทธิ์ที่เขาค้อกันเถอะ\n\nสายคอนเทนต์หรือสายลุยห้ามพลาด! กับมุมนี้ที่ต้องมาสัมผัสด้วยตัวเองจริงๆ การันตีเลยว่าความรู้สึกตอนลมเย็นๆ ปะทะหน้าขณะที่กำลังดริฟท์ลงเขา มันคือความสุขที่อธิบายเป็นคำพูดไม่ถูกจริงๆ ทั้งตื่นเต้น ทั้งสดชื่น และภาพตรงหน้าที่เห็นทุ่งดอกไม้สีม่วงตัดกับแสงเย็นคือที่สุด! 💜✨\n\nทำไมต้องมาที่ LinnyLand Fun and Farm?\n\n    🏎️ กิจกรรมสุดมันส์: ขี่รถโกคาร์ท/ม้งคาร์ท เลี้ยวลดคดเคี้ยวไปตามไหล่เขา สนุกได้ทุกวัย\n\n    🌈 มุมถ่ายรูปสุดปัง: ทางวิ่งที่ประดับด้วยยางสีสันสดใส ตัดกับวิวยอดเขาและทุ่งดอกไม้แบบพาโนรามา\n\n    🌄 บรรยากาศสุดจึ้ง: อากาศเย็นสบายตลอดวัน ยิ่งมาช่วงเช้าหรือเย็น แสงจะสวยมากกกก (ถ่ายรูปออกมาดูผอม ดูสูงแน่นอน!)\n\nใครที่กำลังมองหาที่เที่ยวเปลี่ยนบรรยากาศ อยากปลดปล่อยความเครียด หรือพาครอบครัวมาทำกิจกรรมสนุกๆ บอกเลยว่าที่นี่ตอบโจทย์ครบจบในที่เดียวครับ\n\n📍 พิกัดความฟิน: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n⏰ เปิดให้บริการ: ทุกวัน 09:00 – 18:00 น.\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเพชรบูรณ์ #ที่เที่ยวเขาค้อ #ม้งคาร์ท #โกคาร์ท #KhaoKho #TravelThailand #CheckInPhetchabun",
+      "images": [
+        "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/650738384_122125724703046512_8473444940162290907_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=2KnIVzFAmtQQ7kNvwGyaNRO&_nc_oc=AdoFNrT32pfrbee2t-PqMswjuhAEzE8nQdWLQGBSNpFHemE6cReEegHZmD2A48-UlQ8J6n__ycWBodcFmXTMNaFx&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af1R_KY6OvOW9_HCZZyv1N3GLiCx04LLwJyQHMg6D7PihA&oe=69D403CC"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-30T03:00:06.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02NBGHLL9FM4mdm5B35WCCxkia7w2WpsphZp6SgYKsp6TxAbRvu2Xa59VNqqCLh4jSl&id=61581395369965"
+    },
+    {
+      "text": "🏎️ สนุกปลอดภัย! ใครๆ ก็เล่นได้.. ที่ LinnyLand Fun and Farm 🚜✨\n\nเบื่อไหมกับการไปเที่ยวแบบเดิมๆ? มาเปิดประสบการณ์ใหม่ที่เขาค้อ กับกิจกรรมสุดมันส์ที่ \"รถถังจิ๋ว\" และ \"รถเลื่อน\" สุดฮิต! จะเด็กหรือผู้ใหญ่ก็ลุยได้เต็มที่ เพราะเราเน้นความปลอดภัยเป็นอันดับหนึ่ง! 🛡️\n✅ ทำไมต้องมาลองที่นี่?\n\n    ขับง่าย สบายมือ: รถถังจิ๋วบังคับง่ายมากกกก ลูกหลานเล่นเองได้หายห่วง หรือจะคุณพ่อคุณแม่ช่วยประคองก็สนุกไปอีกแบบ\n\n    ความปลอดภัยยืนหนึ่ง: เรามีอุปกรณ์เซฟตี้ เตรียมหมวกกันน็อกให้พร้อมก่อนออกลุยทุกล้อ!\n\n    บรรยากาศดี๊ดี: ตั้งอยู่ท่ามกลางธรรมชาติที่ ต.เข็กน้อย อ.เขาค้อ ขับรถเล่นรับลมเย็นๆ ฟินสุดๆ\n\n    กิจกรรมสำหรับทุกคน: ไม่ว่าจะมาเป็นแก๊งเพื่อน มากับแฟน หรือมาแบบครอบครัว (Family Friendly) ก็การันตีรอยยิ้มกลับไปแน่นอน!\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n⏰ เปิดให้บริการทุกวัน: 09:00 – 18:00 น.\n📞 โทรสอบถามเส้นทาง/จองคิว: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nหนีความวุ่นวาย มาสร้างเสียงหัวเราะด้วยกันที่ LinnyLand นะครับ! 🏁💨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #กิจกรรมครอบครัว #รถถังจิ๋ว #เที่ยวเข็กน้อย #ที่เที่ยวเพชรบูรณ์ #AdventureKhaoKho #FunAndFarm",
+      "images": [
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/651834031_122125724205046512_7346938771506765401_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ZT3gQIY6zfgQ7kNvwE9nuIm&_nc_oc=AdpdQGpfL7llseBAXALVVy4BRhqAszuO_cS4bAdjCA3JVOf5-uouFlppT2U3xP5ZpF89Px74aBJtWREPtPorcAn5&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af2Pp9H_X2p3rvGuyq_83C5qRRjTZ-60zcHTkcJwQd8q6Q&oe=69D3D89E"
+      ],
+      "likes": 1,
+      "shares": 1,
+      "time": "2026-03-29T03:00:51.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HMaU1HXVPCijuQoXeuj72qm1s9BiHx2ekjsj4PYrJMHxoYon4qCKAgRJYiEZv51tl&id=61581395369965"
+    },
+    {
+      "text": "🏎️ หยุดนี้... ไปซิ่งกันไหม? ทริปเขาค้อที่สายคอนเทนต์และสายลุยห้ามพลาด! ⛰️☁️\n\nใครกำลังมองหาที่เที่ยวฮีลใจแต่ไม่อยากแค่นั่งมองเขาเฉยๆ ต้องมาที่นี่! LinnyLand Fun and Farm พิกัดใหม่สุดจึ้งในเขาค้อ ที่จะทำให้การมาพักผ่อนของคุณตื่นเต้นกว่าเดิมด้วยกิจกรรม \"ฟอร์มูล่าม้ง\" หรือรถเลื่อนภูเขา บอกเลยว่าสนุกสุดเหวี่ยง ลมตีหน้าแบบฟินๆ บนเส้นทางที่โอบล้อมด้วยวิวภูเขาสีเขียวขจี 🏎️💨\n\nไม่ว่าจะพาแฟนมาสวีท พากลุ่มเพื่อนมาแข่งกันซิ่ง หรือจะพาน้องๆ หนูๆ ในครอบครัวมาเปิดประสบการณ์ใหม่ ก็จอยได้ทุกคน! แถมยังมีน้องแพะสุดน่ารักรอต้อนรับให้ไปถ่ายรูปและให้อาหารกันแบบใกล้ชิดด้วยนะ 🐐✨\n\n📍 รายละเอียดสำหรับตามรอย:\n\n    สถานที่: LinnyLand Fun and Farm (เขาค้อ จ.เพชรบูรณ์)\n\n    ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\n    เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดทุกวัน!)\n\n    ติดต่อสอบถาม: 090-824-2641\n\n    Facebook: LinnyLand Fun and Farm\n\nจุดเด่นที่ต้องมา:\n✅ วิวสวยหลักล้าน ถ่ายรูปมุมไหนก็ปัง\n✅ กิจกรรมสนุก ปลอดภัย เล่นได้ทุกวัย\n✅ อากาศดี เย็นสบายตลอดทั้งปี\n\nเตรียมชุดเก่งให้พร้อม แล้วสตาร์ทรถมาเจอกันที่เขาค้อนะครับ! 🚗💨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #ฟอร์มูล่าม้ง #ทริปครอบครัว #ที่เที่ยวเพชรบูรณ์ #KhaoKho #รีวิวเขาค้อ",
+      "images": [
+        "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/651160989_122125724079046512_9089395554438624460_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=M09d-WGnvpYQ7kNvwFlSQRo&_nc_oc=Adqbm6EuVCMf4DZmpm7Gr_DAELufpf345HHngeu0jyVTBvuiQWjlUSCmM3VXfCrG9aNnfFKT5nByLr1pqKMQtok4&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=jwclP0ZFoNGlZOYMCXHq4g&_nc_ss=7a389&oh=00_Af3LemWa7rosuTqycb2ziMqo5_5x8Zqfvwn5H5ByU3ojww&oe=69D3DCFA"
+      ],
+      "likes": 2,
+      "shares": 0,
+      "time": "2026-03-28T03:00:41.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02i9ezk2ciZVktPRv6viFosDcfw1j7ToqJxqzYE15rPoaWkvP3mgpAepaDRRZSvCtBl&id=61581395369965"
+    },
+    {
+      "text": "🏎️ หนีความวุ่นวาย มาสร้างรอยยิ้มที่ \"LinnyLand Fun and Farm\" เขาค้อ! 🐰\n\n\"ภาพจริง บรรยากาศจริง ไม่จกตา\" สัมผัสความสนุกที่จับต้องได้จริงกับที่เที่ยวแลนด์มาร์คใหม่แห่งเขาค้อ ที่รวมเอาความตื่นเต้นและโมเมนต์แสนอบอุ่นไว้ในที่เดียว!\n\nไม่ว่าคุณจะเป็นสายลุย สายครอบครัว หรืออยากพาลูกๆ มาเปิดประสบการณ์ใหม่ เราเตรียมกิจกรรมไฮไลท์ไว้รอเพียบ:\n\n    🏎️ Luge & Kart: ซิ่งรถลูจลงเขา สัมผัสลมเย็นๆ และวิวสวยๆ ที่จะทำให้คุณอะดรีนาลีนฉีดพล่าน\n\n    🚜 Adventure Rides: สนุกกับรถลุยสไตล์ออฟโรด ให้คุณได้ลองขับและสัมผัสความเท่แบบไม่ซ้ำใคร\n\n    🐰 Animal Farm: ใกล้ชิดกับน้องกระต่ายสุดน่ารัก ป้อนแครอทน้องๆ ได้แบบตัวต่อตัว ถูกใจเด็กๆ และสายถ่ายรูปแน่นอน\n\n✨ ทำไมต้องมาที่นี่?\nเพราะเราเน้นบรรยากาศที่สนุกสนานเป็นกันเอง สถานที่สะอาด และเจ้าหน้าที่ดูแลอย่างดี ให้ทุกภาพความทรงจำของคุณเป็นของจริงเหมือนในรูป!\n\n📍 ข้อมูลติดต่อ & การเดินทาง\n\n    🕒 เปิดให้บริการทุกวัน: 09:00 – 18:00 น.\n\n    🗺️ ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\n    📞 โทร: 090-824-2641\n\n    📱 Facebook: LinnyLand Fun and Farm\n\nวันหยุดนี้... ไม่ต้องไปไหนไกล ปักหมุดมาที่ LinnyLand แล้วมาสนุกด้วยกันนะครับ! ⛰️✨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #ที่เที่ยวครอบครัว #รถลูจ #ฟาร์มสัตว์ #KhaoKho #TravelThailand",
+      "images": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/651174208_122125723533046512_1737278167275495782_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=4N4Ot_o54d0Q7kNvwHniEPP&_nc_oc=AdoHOHMNOvhKMFbnyOXPA4tGyYq_BJyziFgJwhB8-p7BbKRkoiSyQJmzvDFek7FcwvA&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=Q2U11fJaPgK3YSpNk7M2mg&_nc_ss=7a389&oh=00_Af17ZRQtu_yEE8--nBDx2_DGkqGO63zp8OeF4brAahQQUQ&oe=69D40E1F"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-27T03:00:03.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0o9pzKjr4fuE2B4BgfbWii9kFhtJkj7qex5b358ZRsWzJLJgppmMGeq5TvmuoLrDSl&id=61581395369965"
+    },
+    {
+      "text": "เเจ่วฮ้อนรสเด็ดอร่อยไม่เหมือนใครที่ลินนี่แลน์ฟันแอนด์ฟาร์ม #ลินนี่แลนด์ฟันแอนด์ฟาร์ม  โทรติดต่อสอบถามได้ที่ 080-824-2641 #เขาค้อ #เพชรบูรณ์ #ร้านอาหารเขาค้อ #ที่กินเขาค้อ",
+      "images": [],
+      "likes": 3,
+      "shares": 0,
+      "time": "2026-03-26T10:15:48.000Z",
+      "url": "https://www.facebook.com/reel/1492072132472818/"
+    },
+    {
+      "text": "⛰️ คุ้มกว่านี้ไม่มีอีกแล้ว! เที่ยวเขาค้อรอบนี้... ต้องแวะที่ \"LinnyLand Fun and Farm\" 🏎️🐇\n\nสายกิจกรรมห้ามพลาด! จะมากับแก๊งเพื่อน มากับแฟน หรือพาลูกหลานมาเช็กอินก็แฮปปี้สุดๆ เพราะที่นี่รวมความสนุกไว้ครบในที่เดียว ในราคาสบายกระเป๋าแบบที่เห็นแล้วต้องรีบพุ่งตัวมา!\n\n✨ ทำไมต้องมาที่ LinnyLand?\n\n    🎟️ เข้าฟรี! ไม่มีค่าผ่านประตู เดินเล่นถ่ายรูปสวยๆ ได้เลย\n\n    🏎️ กิจกรรมสุดมันส์: เริ่มต้นแค่หลักสิบ! ไม่ว่าจะเป็นรถเลื่อน หรือรถขับสุดเท่ ขับสนุกได้ทั้งเด็กและผู้ใหญ่\n\n    🥕 ใกล้ชิดน้องสัตว์: ป้อนอาหารน้องกระต่ายและน้องแพะสุดคิ้วท์ โปรโมชั่นพิเศษ \"3 ตะกร้า 100.-\" เท่านั้น! บอกเลยว่าน้องๆ น่ารักและเป็นกันเองมาก\n\n📍 รายละเอียดเพิ่มเติม:\n🕒 เปิดให้บริการ: ทุกวัน เวลา 09:00 – 18:00 น.\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nวันหยุดนี้ถ้ายังไม่รู้จะไปไหน ปักหมุดมาที่นี่รับรองไม่ผิดหวัง ได้รูปสวยๆ และความประทับใจกลับไปแน่นอน! 📸✨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #ที่เที่ยวเด็ก #ฟาร์มสัตว์ #กิจกรรมเขาค้อ #KhaoKho #รีวิวเขาค้อ",
+      "images": [
+        "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/651028548_122125723203046512_3592635718746054585_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=_PjFNKIVQbgQ7kNvwEtO533&_nc_oc=AdpLe_WkzzNy0hMo3Qs8DbRp2RDgHzWomOxzBmA-di2atuzAUN191VbjCY3u8yJ06zM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q2U11fJaPgK3YSpNk7M2mg&_nc_ss=7a389&oh=00_Af0lQtULpyu068i1G8E55zRDpaUaFUgx6ZZi9PzORogA2A&oe=69D3F02F"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-26T03:00:44.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0MGqxVWQgzundbThyD4B84eUqZcGvizecyv9Eazwfq1DHj9mFV6UywfdrxvpaVur9l&id=61581395369965"
+    },
+    {
+      "text": "🎨 เติมสีสันให้ชีวิต... สนุกซ่าท้าลมหนาวที่ LinnyLand เขาค้อ! 🏎️💨\n\nเบื่อความจำเจแบบเดิมๆ หรือยัง? มาปลดปล่อยความสนุกให้สุดเหวี่ยงที่ LinnyLand (ลินนี่แลนด์) พิกัดเช็คอินสุดฮอตแห่งใหม่ในเขาค้อ ที่จะเปลี่ยนวันหยุดธรรมดาของคุณให้กลายเป็นวันสุดพิเศษ!\n\n✨ ทำไมต้องมาที่ LinnyLand?\n\n    🏎️ Formula Hmong & Karting: สัมผัสความตื่นเต้นกับการขับรถฟอร์มูล่าม้งสุดคลาสสิกบนเส้นทางที่ตกแต่งด้วยสีสันสดใส รับรองว่าสนุกจนหยุดไม่อยู่!\n\n    📸 Photo Paradise: สายคอนเทนต์ต้องเลิฟ! เพราะที่นี่ \"ถ่ายรูปสวยทุกมุม\" ตั้งแต่ทางเดินสีรุ้งไปจนถึงแบ็คกราวด์สแปลชสีสุดจี๊ด เตรียมเมมโมรี่การ์ดมาให้พร้อม!\n\n    👨‍👩‍👧‍👦 Family Friendly: จะมากับแก๊งเพื่อนก็มันส์ หรือพาลูกหลานมาทำกิจกรรมครอบครัวก็แฮปปี้ พื้นที่กว้างขวาง กิจกรรมเพียบ\n\n📍 ข้อมูลเพิ่มเติมสำหรับการเดินทาง:\n\n    ⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n\n    🏠 ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\n    📞 โทร: 090-824-2641\n\n    📱 Facebook: LinnyLand Fun and Farm\n\nวันหยุดนี้อย่าปล่อยให้เหงา... ชวนคนที่คุณรักมาเติมความสดใสด้วยกันที่ลินนี่แลนด์นะครับ! 🌈✨\n\n#LinnyLand #ลินนี่แลนด์ #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #ฟอร์มูล่าม้ง #ที่เที่ยวครอบครัว #รีวิวเขาค้อ #KhaoKho #TravelThailand",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651896726_122125722933046512_1986536813279874424_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=yyOWx3pLHgMQ7kNvwHVynem&_nc_oc=Adpl3Hc81__IooH6v6BhbuX__CF7rqf62HJc4nbfgDciSZgIBAIhtVd0vIS_lJX9nVo&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af2VpoaO6S3oAcpDVcTk6LD-mdqKrj0OFxegJhWxasV8Dw&oe=69D3DDCF"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-25T03:00:30.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02RMcN5CVibU8my3QorCHXa4CaEHxoAkdYWfN6c8CGRWBnmjxUhMHx2YqneK2tmggfl&id=61581395369965"
+    },
+    {
+      "text": "🐰🐐 ความน่ารักเกินต้าน... น้อนๆ รอพี่ๆ มาหาอยู่นะ! ✨\n\nวันหยุดนี้ถ้ายังไม่มีแพลนไปไหน แวะมาเติมพลังบวกกับความนุ่มฟูที่ LinnyLand Fun and Farm กันเถอะ! พบกับแก๊งตัวตึงประจำฟาร์ม \"น้องกระต่ายหูตก\" สุดบ๊องแบ๊ว และ \"น้องแพะแคระ\" สุดกวนที่พร้อมจะอ้อนขอขนมจากทุกคน\n\nไฮไลท์ห้ามพลาด:\n\n    🥕 กิจกรรมป้อนอาหาร: ใกล้ชิดแบบเอ็กซ์คลูซีฟกับเหล่าสัตว์น้อยน่ารัก โปรโมชั่นพิเศษ 3 ตะกร้า เพียง 100.- เท่านั้น! (คุ้มมาก ป้อนกันเพลินๆ ได้ทั้งครอบครัว)\n\n    🏎️ สนุกต่อไม่รอแล้วนะ: ป้อนอาหารเสร็จแล้ว ไปซิ่งกันต่อกับรถลูจ (Luge) สุดมันส์ กิจกรรมยอดฮิตที่สายลุยต้องลอง!\n\n    📸 มุมถ่ายรูปเพียบ: บรรยากาศฟาร์มสวยๆ บนเขาค้อ ถ่ายมุมไหนก็น่ารัก รับรองได้รูปอัปโซเชียลรัวๆ\n\n📍 พิกัดความสนุก: LinnyLand Fun and Farm\n🏠 ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n⏰ เปิดให้บริการทุกวัน: 09:00 – 18:00 น.\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nแท็กเพื่อน ชวนแฟน หรือพาเด็กๆ มาเช็คอินด่วน! ความน่ารักระดับสิบรอทุกคนู่อยู่นะครับ 🧡\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #ฟาร์มสัตว์ #กระต่าย #แพะแคระ #ที่เที่ยวเพชรบูรณ์ #กิจกรรมครอบครัว #ป้อนอาหารสัตว์ #KhaoKho",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651364627_122125722753046512_9156812704030458836_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=3QgdnHWp8sUQ7kNvwGJcgER&_nc_oc=AdoOuTow4KN13OmbV0H4nNKxyznNf2Zc7aLjiqRUpeZz1WzqD2ePHnfP9FIXki-dhnk&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af3Sj6xY7_aFBZwfmsn8hBBWnVCjBMbIsgsBkunAGRqMUg&oe=69D40313"
+      ],
+      "likes": 2,
+      "shares": 0,
+      "time": "2026-03-24T03:00:18.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0zH9ft4wEa4WTJN3urKAy9E8LTp7cUsj8yN4byP31Eo7qcGRCfoXcQNX6BRNRMpTKl&id=61581395369965"
+    },
+    {
+      "text": "🐰 เที่ยวสนุกยกบ้าน! เช็คอินพิกัดความสุขที่ LinnyLand Fun and Farm เขาค้อ ✨\n\nวันหยุดนี้ถ้ายังไม่รู้จะพาลูกหลานไปปล่อยพลังที่ไหน... แวะมาหาเราที่ LinnyLand สิครับ! ที่นี่เรามีกิจกรรมตอบโจทย์ทุกวัย จะสายลุยหรือสายละมุนก็แฮปปี้ได้ทั้งครอบครัว ท่ามกลางบรรยากาศดีๆ ของเขาค้อ ⛰️\n\nไฮไลท์ความสนุกที่ไม่ควรพลาด:\n\n    🏎️ สายซิ่งต้องลอง: ขับรถลูจ (Luge) สุดมันส์ หรือจะลองประสบการณ์ใหม่กับการขับ \"รถถัง\" จิ๋ว ลุยได้ทุกที่ สนุกปลอดภัยแน่นอน\n\n    🥕 สายรักสัตว์ต้องเลิฟ: ป้อนอาหารน้องกระต่ายหูตกสุดนุ่มนิ่ม และน้องแพะขี้เล่นที่รอต้อนรับทุกคนอย่างใกล้ชิด\n\n    📸 มุมถ่ายรูปเพียบ: บรรยากาศฟาร์มที่รายล้อมด้วยธรรมชาติ จะถ่ายรูปครอบครัวหรือรูปโปรไฟล์ใหม่ก็ปังทุกมุม\n\n📍 ข้อมูลการเดินทางและติดต่อ\n\n    ⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n\n    🗺️ พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\n    📞 โทร: 090-824-2641\n\n    📱 Facebook: LinnyLand Fun and Farm\n\nหนีความวุ่นวาย มาสร้างรอยยิ้มด้วยกันที่ LinnyLand นะครับ! 👨‍👩‍👧‍👦✨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #ที่เที่ยวครอบครัว #ฟาร์มกระต่าย #ขับรถลูจ #เพชรบูรณ์ #KhaoKho #FamilyVacation",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/651140442_122125722585046512_6463208316382126640_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=ahzw9925Km8Q7kNvwGFJhYj&_nc_oc=AdpBHNMV9jCp8kUMz-9aaxjWh9nwYU1Tov0g-_4-HBYYlaffOcvjwRBgCrrecwagGJk&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_BSoFg4tSr2AKaOcxtnZQw&_nc_ss=7a389&oh=00_Af2mbcx4q8HJ0bK3j040ZuDo0OBu28rlfwcHpCKDTPaYTA&oe=69D3F190"
+      ],
+      "likes": 1,
+      "shares": 1,
+      "time": "2026-03-23T03:00:53.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02v8ERNzjLzYeZPWwuNBrHFGFuAriJB4ESVeqCMh5bpD41jhrt9sbpRCq5KS6e5sCNl&id=61581395369965"
+    },
+    {
+      "text": "🏎️ ซิ่งท้าลม ชมวิวหลักล้าน! \"ลูจเจ้าแรกแห่งเพชรบูรณ์\" ที่ LinnyLand Fun and Farm 🏔️✨\n\nสายแอดเวนเจอร์ห้ามพลาด! ใครกำลังมองหาที่เที่ยวสุดมันส์ในเขาค้อ บอกเลยว่าต้องมาเช็กอินที่นี่ครับ กับ \"ลูจ\" (Luge) รถดริฟต์ไร้เครื่องยนต์ที่จะพาคุณไถลลงเขา รับลมเย็นๆ พร้อมชมวิวภูเขาแบบพาโนรามา บอกเลยว่าฟินระดับตัวแม่!\n\nทำไมต้องมาที่นี่?\n\n    🏁 เจ้าแรกในเพชรบูรณ์: ประสบการณ์ใหม่ที่ไม่ต้องไปไกลถึงต่างประเทศ\n\n    🏎️ มันส์สุดเหวี่ยง: สนุกกับการบังคับรถลงเขาด้วยตัวเอง จะสายดริฟต์หรือสายชิลก็จัดไป\n\n    📸 วิวหลักล้าน: ทางวิ่งสวยมาก ถ่ายรูปออกมาเท่สุดๆ เห็นวิวเขาค้อแบบเต็มตา\n\n    👨‍👩‍👧‍👦 สนุกได้ทุกวัย: มากับเพื่อนก็ฮา มากับครอบครัวก็สนุก ปลอดภัยและเร้าใจแน่นอน\n\n📍 รายละเอียดเพิ่มเติม:\n⏰ เปิดบริการ: ทุกวัน 09:00 – 18:00 น.\n🏡 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nวันหยุดนี้ถ้ายังไม่รู้จะไปไหน... แท็กเพื่อน อ้อนแฟน แล้วพุ่งตัวมาที่ LinnyLand กันครับ! ความมันส์รอคุณอยู่ 🏎️💨⛰️\n\n#LinnyLand #เขาค้อ #เพชรบูรณ์ #ที่เที่ยวเขาค้อ #ลูจ #Luge #KhaoKho #ที่เที่ยวเพชรบูรณ์ #กิจกรรมแอดเวนเจอร์ #ซิ่งท้าลม",
+      "images": [
+        "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/652126994_122125722333046512_1013770222343306255_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=UFVHv1QswQcQ7kNvwEMHPUU&_nc_oc=Adpt-N0FVM3tzLbKGd2VcEC1D5NWwhpIMGRTs_YqY3royyLF-bDh4CVnNMT6Eb_86p4RcuQkNjUSz1L2iRLR4F0y&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=0mkG_qsnT71Wr0d0Y7NOSA&_nc_ss=7a389&oh=00_Af0iosTUo0NvIXtgCO1YKMOrrae3bPJ03xbU1S9z83FRow&oe=69D3DD52"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-22T03:00:38.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ZAwcxwgPwE3sWouAUrZaAy44vSgtEZX5inT8THvpS27YgGJFiFsgs4tWFnfCR1Uol&id=61581395369965"
+    },
+    {
+      "text": "🍲 มื้ออาหารแห่งความสุข ท่ามกลางวิวหลักล้านที่ LinnyLand Fun & Farm! 🏔️✨\n\nเปลี่ยนมื้อธรรมดาให้กลายเป็นความทรงจำสุดพิเศษกับ \"ชุดชาบูหม้อไฟ\" ที่เสิร์ฟมาในกรงทองสุดหรู พร้อมวัตถุดิบคุณภาพดี ผักสดๆ และเนื้อเน้นๆ ทานคู่กับน้ำซุปร้อนๆ ในบรรยากาศสุดชิลล์ริมเขา 🥓🥬\n\nไม่ว่าคุณจะมากับครอบครัว มากับก๊วนเพื่อน หรือพาคนรู้ใจมาเดท บอกเลยว่าที่นี่ตอบโจทย์สุดๆ เพราะเราไม่ได้มีแค่ความอร่อย แต่เรามอบ \"ความสุข\" ให้กับทุกคนในครอบครัว ด้วยบรรยากาศฟาร์มที่สนุก อร่อย และประทับใจไม่รู้ลืม! 😍☀️\n\n📍 รายละเอียดที่คุณไม่ควรพลาด:\n\n    สถานที่: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถงูหินยักษ์)\n\n    เวลาทำการ: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน!)\n\n    ติดต่อจองโต๊ะ: 090-824-2641\n\n    Facebook: LinnyLand Fun and Farm\n\nหนีความวุ่นวาย มาสูดอากาศบริสุทธิ์และอิ่มอร่อยไปกับเราที่เขาค้อนะครับ! 🚗💨\n\n#LinnyLandFunAndFarm #รีวิวเขาค้อ #ที่กินเขาค้อ #ชาบูวิวหลักล้าน #เพชรบูรณ์ #เที่ยวไทย #มื้ออาหารแห่งความสุข #KhaoKho",
+      "images": [
+        "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/651220198_122125722111046512_5709723060786359216_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=aob1TJJV9jsQ7kNvwF_GF9a&_nc_oc=AdoA46Vcea_BZAAhrH5ZQFIVsX5B-q-iUrWruSuzhgJx15N6eUdUPxqCpSD7MfbCqylHkxWgJ1KiqxzSSZTeNOCF&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=0mkG_qsnT71Wr0d0Y7NOSA&_nc_ss=7a389&oh=00_Af3BUIoiieqvWWthdOSZah1XZzkbcMIRWcqzMimYuN7iXQ&oe=69D3EE44"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-21T03:01:12.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DBMGP1AU6na7tcXFKcU62oDVzPo3SGexdCXZgyrmVdtA7yqzuuNZ6MAWnBdpjUi4l&id=61581395369965"
+    },
+    {
+      "text": "กิจกรรมใหม่ๆสำหรับน้องๆ กับสนามลูจแห่งแรกของเพชรบูรณ์ !!\n-ทำไข่ครกนกกระทา 50-\n-ขับรถมินิแทงค์ตีนตะขาบ 40-\n-ระบายสี 60-\n-ป้อนอาหารสัตว์ 40-\n-เล่นรถแมคโฮบังคับล่าไข่ทองคำลุ้นรับกล่องสุ่ม 50-\nพิเศษ!! แพ็คเกจ\nเล่น 3 อย่าง ราคา 119-\nเล่น 5 อย่าง 199-\n\nเล่นลูจ  แพคเก็จทดลองเล่นได้อะไรบ้าง มาดูกัน !!  สนุกสุดเหวี่ยงกับเครื่องเล่น Luge ราคาพิเศษเพียง 199 บาท! พร้อมรับของแถมจุกๆ... ห้ามพลาด!\" \n🎫บัตรทดลองเล่นปกติ 399 บาท/ท่าน \n✨โปรโมชั่นพิเศษต้อนรับปิดเทอม✨\nตั้งแต่วันนี้ ถึง 31 พ.ค. 69 เหลือเพียง 199!!\n– เล่นลูจ 1 รอบ (รอบทดลอง)\n– ขับรถ minitank 5 นาที\n– รถรางรับ–ส่ง ฟรี\n– ฟรี ส่วนลด 50 บาท (1 คูปอง ต่อ 1 เมนู)\n– อัปเกรดเป็นบัตรเหมาได้ทันที ชำระเพิ่ม 399 บาท/ท่าน\n\n📍ลินนี่แลนด์ ฟันแอนด์ ฟาร์ม สวรรค์แห่งรอยยิ้มและความสนุก\nhttps://maps.app.goo.gl/k7PwDKw7WQjki4ZH6?g_st=il\nLine ID : @Linnyland\n📞สอบถามข้อมูลเพิ่มเติม โทร 090-824-2641\n#โปรโมชั่น #ปิดเทอม #วันหยุด #เขาค้อ #วิว #คาเฟ่ #คาเฟ่เขาค้อ #หินงูยักษ์ #พญาเข็ก #ที่เที่ยวเขาค้อ #luge #ลูจ #สนามลูจ #กิจกรรม #ครอบครัว #เพชรบูรณ์ #แห่งแรกของเพชรบูรณ์ #สวนสนุก #ท่องเที่ยว #ท่องเที่ยวเชิงเกษตร #ฟาร์ม #เที่ยวเขาค้อ #หินงูใหญ่ #กิจกรรม #อาหารสัตว์ #กระต่าย #แพะ #แมคโฮ #ล่าไข่ทองคำ\nCr.สายเที่ยวสายแดก",
+      "images": [],
+      "likes": 383,
+      "shares": 48,
+      "time": "2026-03-20T05:42:57.000Z",
+      "url": "https://www.facebook.com/reel/2468658156884717/"
+    },
+    {
+      "text": "🏔️ หนีความวุ่นวาย มาเอนกายรับลมหนาวที่ \"LinnyLand Fun and Farm\" ✨\n\nเหนื่อยไหมกับการเดินทาง? แวะมาพักรถ พักใจ เติมพลังให้ร่างกายกันที่แลนด์มาร์คสุดชิลล์แห่งเขาค้อ! 🌾 ที่นี่เราไม่ได้มีแค่ที่พักสายตา แต่เรามี \"วิวหลักล้าน\" ที่พร้อมจะสะกดทุกสายตาให้หยุดนิ่ง พร้อมสัมผัสบรรยากาศฟินๆ ในซุ้มไม้ไผ่สไตล์ธรรมชาติ ให้คุณได้นั่งห้อยขา จิบเครื่องดื่มเย็นๆ รับลมเย็นๆ แบบเป็นส่วนตัวที่สุด\n\n🍽️ อร่อยฟิน กินท่ามกลางขุนเขา\nอิ่มอร่อยกับเมนูอาหารหลากหลายที่คัดสรรมาอย่างดี รสชาติถูกปาก ในราคามิตรภาพ จะมากับแก๊งเพื่อน มากับครอบครัว หรือมาสวีทกับคนรู้ใจ ก็ประทับใจแน่นอน!\n\n📍 พิกัดหาง่าย ใกล้ลานจอดรถภูหินยักษ์\nเดินทางสะดวก เป็นจุดเช็คอินที่ห้ามพลาดถ้าคุณมาเยือน ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\nℹ️ ข้อมูลเพิ่มเติม:\n\n    ⏰ เวลาทำการ: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n\n    📍 ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถภูหินยักษ์)\n\n    📞 โทร: 090-824-2641\n\n    📱 Facebook: LinnyLand Fun and Farm\n\nปักหมุดแล้วตามมาเลย! ความสุขรอคุณอยู่ที่นี่... 🚗💨\n\n#LinnyLandFunAndFarm #เขาค้อ #เพชรบูรณ์ #ที่เที่ยวเขาค้อ #จุดพักรถเขาค้อ #วิวหลักล้าน #ร้านอาหารเขาค้อ #เข็กน้อย #ภูหินยักษ์ #CheckInKhaoKho",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/650488986_122125721931046512_2262578684212146192_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=exGGpR9XauwQ7kNvwG7fmvC&_nc_oc=AdqceSGXX58yUNq1MzHTY8DfLxowB7YJeCO5DQY4KlR6awzW3vT5I68uprP6VdTm4NI&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af3kKGo93jYXw9wuk_c5d_CcqZsP4dLxe1tYx97EyuaR-w&oe=69D4056B"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-20T03:00:42.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0XPQsY36DGoF3dExhaeoaT5Vyrj5fx5Cu1Me8mf3b13NCUqfD1zuV6166NzsjhN5Jl&id=61581395369965"
+    },
+    {
+      "text": "✨ เปลี่ยนมื้อธรรมดา ให้เป็นมื้อที่พิเศษที่สุดในใจคุณ 🍝🥂\n\nหนีความวุ่นวาย มาเติมความหวานให้ชีวิตที่ LinnyLand Fun and Farm 🌿 บรรยากาศสุดโรแมนติกท่ามกลางวิวทุ่งหญ้าและซุ้มไม้ไผ่สไตล์บาหลี พร้อมสัมผัสแสงแดดอ่อนๆ และลมหนาวที่พัดผ่านมาให้ความสดชื่นตลอดวัน\n\nไม่ว่าจะมาเดทกับคนรู้ใจ หรือมาพักผ่อนกับครอบครัว มื้ออาหารของคุณจะพิเศษขึ้นกว่าเดิมด้วย:\n\n    🍝 สปาเก็ตตี้กุ้งตัวโต ผัดคลุกเคล้าจนเข้าเส้น รสชาติกลมกล่อมกำลังดี\n\n    🍹 เครื่องดื่มซิกเนเจอร์ สีสันสดใส รสชาติเปรี้ยวหวานรีเฟรชร่างกายได้ดีเยี่ยม\n\n    📸 มุมถ่ายรูปสุดปัง ที่ให้ฟีลเหมือนอยู่ต่างประเทศ ถ่ายมุมไหนก็สวย!\n\nมาสร้างความทรงจำดีๆ ร่วมกันที่เขาค้อนะครับ รับรองว่าอิ่มทั้งท้อง อิ่มทั้งใจแน่นอน ❤️\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถภูหินยักษ์)\n⏰ เปิดให้บริการ: 09:00 – 18:00 น. (เปิดทุกวัน)\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\n#LinnyLand #ที่เที่ยวเขาค้อ #ร้านอาหารเขาค้อ #คาเฟ่เขาค้อ #บรรยากาศดี #รีวิวเพชรบูรณ์ #มื้อพิเศษ #KhaoKho",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/653704871_122125720851046512_4922634993472149777_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_ohc=ysp0xSAVTCgQ7kNvwHtwsXX&_nc_oc=AdqK3rWIdmRrF57WyfTmhjuIf5GKdDlih-3uVEXitbSy_F4269B0eSqjQabPRLbJR9g&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af0KF9MFhHYV0lALtAEu7M5GWKM0KIuxYw0VJdf9EfTyVQ&oe=69D3EABE"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-19T03:00:17.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid037mG2VgkKF796jWSEH6mJeXVAXFPEjg8vELwpdrSRetFyK6a3RmJgYhracSpS4yLLl&id=61581395369965"
+    },
+    {
+      "text": "🍳 หอมฟุ้ง...ทะลุจอ! \"กะเพราหมูกรอบไข่ดาวลาวา\" เสิร์ฟร้อนฉ่าบนกระทะร้อน ♨️\n\nสายกินต้องไม่พลาด! สัมผัสประสบการณ์ความอร่อยแบบ Full HD ที่ LinnyLand Fun and Farm กับเมนูซิกเนเจอร์ที่ใครเห็นเป็นต้องหิว! 😋\n\n✨ ทำไมต้องลองจานนี้?\n\n    หมูกรอบคัดพิเศษ: หนังกรอบกรุ๊ป เนื้อนุ่มชุ่มฉ่ำ ผัดคลุกเคล้ากับซอสกะเพรารสชาติเข้มข้น หอมกลิ่นใบกะเพราแท้ๆ\n\n    ไข่ดาวลาวา: ไข่แดงเยิ้มๆ ที่พร้อมจะละลายไปกับข้าวสวยร้อนๆ เพิ่มความนัวให้ทุกคำ\n\n    เสิร์ฟบนกระทะร้อน: ความพิเศษอยู่ที่เสียง \"ซู่ๆ\" และความร้อนที่รักษาความอร่อยไว้จนคำสุดท้าย หอมกรุ่นโชยมาแต่ไกล!\n\nไม่ว่าจะแวะมาเที่ยวชมฟาร์ม หรืออยากหาอาหารมื้อเด็ดเติมพลัง บอกเลยว่าจานนี้คือ \"The Best\" ของการมาเยือนเขาค้อครับ ⛰️☀️\n\n📍 พิกัดความอร่อย:\n🏢 LinnyLand Fun and Farm\n🏠 ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถงูหินยักษ์)\n⏰ เปิดให้บริการ: 09:00 – 18:00 น. (เปิดทุกวัน)\n📞 โทร: 090-824-2641\nFB: LinnyLand Fun and Farm\n\n#LinnyLand #ของกินเขาค้อ #กะเพราหมูกรอบ #กระทะร้อน #เขาค้อเช็คอิน #อร่อยบอกต่อ #KhaoKho #ร้านอาหารเขาค้อ",
+      "images": [
+        "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/653077362_122125720635046512_2056147928796148760_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=iNxARehbYBEQ7kNvwE2i8Hc&_nc_oc=AdoXKR9M-PLELzCEahE7t248C-ZNrYHrCeomycWqsM-OA20tqKthOElqSXsU_92tSGM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=9vR0nNT7tQompauTjMRK0A&_nc_ss=7a389&oh=00_Af08BqbrynylsJrmBYJw-pl_lIgNxhRoDq0xHB8Ym22wbw&oe=69D3D8A9"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-18T03:00:10.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02i9KzbRMPn4MkS9djBBKMVJtdTNBXKwJJybvgLGJPhxLxRx64Xnyx7xsdDamMMcsgl&id=61581395369965"
+    },
+    {
+      "text": "🔥 กรอบสนั่น...ลั่นเขา! ⛰️ ความอร่อยที่หยุดไม่อยู่ที่ LinnyLand Fun and Farm\n\nสายของทอดมาทางนี้! ถ้าคุณกำลังมองหาของว่างที่เคี้ยวเพลินจนลืมอิ่ม ท่ามกลางบรรยากาศเย็นสบายของเขาค้อ บอกเลยว่าต้องแวะมาลอง \"เซ็ตของทอดรวมมิตร\" ที่กรอบจนคนข้างๆ ต้องหันมอง! 💥\n\n✨ เมนูเด็ดต้องโดน:\n\n    ไส้กรอกแดงในตำนาน: ทอดจนพองกรอบนอกนุ่มใน กัดเข้าไปคือฟินสุดๆ\n\n    เฟรนช์ฟรายส์เหลืองทอง: ทอดสดใหม่ ร้อนๆ เค็มกำลังดี ทานคู่กับอะไรก็อร่อย\n\n    สารพัดของทอด: ยังมีเมนูไก่ทอดซอสฉ่ำๆ และของกินเล่นอีกเพียบที่คัดมาเพื่อสายกินโดยเฉพาะ!\n\n    ทีเด็ดคือน้ำจิ้ม: ทานคู่กับน้ำจิ้มสูตรเด็ดของทางร้าน ที่รสชาติกลมกล่อม เข้ากันได้ดีกับความกรอบของทุกเมนู\n\n🍟 จะนั่งทานในซุ้มส่วนตัวรับลมเย็นๆ หรือจะ Take away เดินถือทานชมวิวฟาร์มก็ชิลล์ไม่แพ้กัน! 📍 พิกัดความอร่อย:\n🏢 LinnyLand Fun and Farm\n📍 ที่ตั้ง: เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถงูหินยักษ์)\n🕒 เปิดบริการทุกวัน: 09:00 - 18:00 น.\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nมาเช็คอินความอร่อยให้ลั่นเขาค้อกันเถอะ! 😋🧡\n\n#ของทอดเขาค้อ #ไส้กรอกแดง #เฟรนช์ฟรายส์ #LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #รีวิวอาหาร #อร่อยบอกต่อ #KhaoKho",
+      "images": [
+        "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/651627998_122125720371046512_2797696798786750980_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=HCs5doc488UQ7kNvwEez5dz&_nc_oc=Adq6F8P_srBI5xyJ3Tyx52_dvFV9mI2YhOpCzFu2GI7-Pi05rVCXRIQX7ztVylFJC0M&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af3JXCbtEh3ITeNCo93E7PtRZNGPImSii6hTaKHo8MfYHw&oe=69D3F459"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-17T03:00:11.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0kP54qQsp7aPdG6Th1RnRxJsonBuAdDteVWeTTnw2Qduj3xq4wRXvFx3oSceLapzul&id=61581395369965"
+    },
+    {
+      "text": "⛰️ หนีความวุ่นวาย ไปเอนกายรับลมหนาวที่ “Khao Kho” | LinnyLand Fun and Farm 🌿\n\n“ชิลล์กว่านี้ไม่มีอีกแล้ว!” ใครที่กำลังมองหาที่พักสายตา อยากทิ้งตัวลงบนหมอนขวานนุ่มๆ พร้อมวิวภูเขาสุดลูกหูลูกตา ต้องที่นี่เลย! 🧡\n\n✨ ไฮไลท์ที่ห้ามพลาด:\n\n    ซุ้มส่วนตัวสุด Exclusive: พักผ่อนแบบเป็นส่วนตัวในซุ้มไม้ไผ่สไตล์ไทยโมเดิร์น มีม่านพริ้วๆ รับลมเย็นๆ ตลอดวัน จะมากับแฟนก็โรแมนติก มากับแก๊งเพื่อนก็นั่งเม้าท์กันยาวๆ\n\n    วิวหลักล้าน: ดื่มด่ำกับทัศนียภาพของเขาค้อแบบพาโนรามา ยิ่งช่วงพระอาทิตย์ตกดินบอกเลยว่าแสงสวยจนต้องหยิบกล้องมาถ่ายรัวๆ\n\n    เมนูคลายร้อนสุดเก๋: จิบเครื่องดื่มเย็นชื่นใจคู่กับขนมทานเล่นในแก้วดีไซน์พิเศษ (แก้ว 2 ชั้น!) เดินถือถ่ายรูปเก๋ๆ ได้ทุกมุมของฟาร์ม\n\n📍 ข้อมูลเพิ่มเติม:\n🕒 เวลาทำการ: 09:00 - 18:00 น. (เปิดให้บริการทุกวัน)\n🗺️ พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้กับลานจอดรถงูหินยักษ์)\n📞 โทร: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nวันหยุดนี้ถ้ายังไม่รู้จะไปไหน ให้ธรรมชาติที่ LinnyLand ช่วยฮีลใจกันนะทุกคน~ 🍃✨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #เพชรบูรณ์ #KhaoKho #CafeKhaoKho #พักผ่อน #รีวิวที่เที่ยว #ธรรมชาติจะบำบัดเราเอง",
+      "images": [
+        "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/651838949_122125720083046512_8958539515688504931_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=kbhXZROz3_MQ7kNvwHzGrzm&_nc_oc=AdrvDU8vP5WG9nP4YQS_57y0fFERU40OsBgUuTaiN95ZVGvY463gi5Zcpm0FTnUznP8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af0s2E-YdoflJgH-3LZwv4agPf40V15ugrGpoxvtk0Ikpw&oe=69D40507"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-16T03:00:05.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HRwrkdMaMkF6by5DWqkkDMSAFURhPpKZh123xDTeTPdvr9B2esPGJtS7d2cJYrcQl&id=61581395369965"
+    },
+    {
+      "text": "⛰️ มื้อพิเศษท่ามกลางขุนเขา... อร่อยจัดเต็มครบจบในที่เดียว! 🍳✨\n\nถ้าคุณกำลังมองหาร้านอาหารที่มาพร้อมกับวิวหลักล้านและความอร่อยแบบเน้นๆ ต้องที่นี่เลย! ไม่ว่าจะฉายเดี่ยว ควงคู่มาเดท หรือยกมาทั้งครอบครัว เราพร้อมเสิร์ฟความฟินให้ทุกโต๊ะด้วยเมนูหลากหลายที่คัดสรรมาอย่างดี\n🌟 ทำไมต้องมาเช็คอินที่นี่?\n\n    เมนูหลากหลาย: อิ่มอร่อยกับอาหารจานร้อน เสิร์ฟพร้อมข้าวสวยนุ่มๆ และไข่ดาวเยิ้มๆ รสชาติเข้มข้นถึงใจ\n\n    บรรยากาศสุดชิลล์: นั่งทานอาหารพร้อมรับลมเย็นๆ และชมวิวทิวเขาแบบพาโนรามา ถ่ายรูปมุมไหนก็ปัง\n\n    ความสุขของทุกคน: พื้นที่กว้างขวาง บรรยากาศเป็นกันเอง เหมาะสำหรับเป็นจุดพักผ่อนของครอบครัวและกลุ่มเพื่อน\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n(ใกล้กับลานจอดรถถังหินยักษ์)\n⏰ เวลาทำการ: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n📞 ติดต่อสอบถาม: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nอย่าปล่อยให้ความหิวรอช้า... แวะมาเติมพลังความอร่อยและสูดอากาศบริสุทธิ์ให้เต็มปอดที่ LinnyLand นะคะ! 🍃🍛\n\n#LinnyLand #เขาค้อ #ที่กินเขาค้อ #รีวิวเพชรบูรณ์ #ร้านอาหารวิวสวย #เที่ยวเขาค้อ #อร่อยบอกต่อ #เข็กน้อย",
+      "images": [
+        "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/653705988_122125706787046512_1506607988716650194_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=N_bU0Zxe69EQ7kNvwE5mrFp&_nc_oc=Ado0BO8QdDkdzvxzeAATotmH0noEqPSB9vKTHbWiJpVQZ1VUnTtWHFCe_fE-_JTHIm4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AX-K2ZvUf1CdzlJEzQb8Bg&_nc_ss=7a389&oh=00_Af0eXsWTI0a_VDBivsWPMW-t_J7ejnlJCNfsIZzrJKsVbQ&oe=69D3E97B"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-15T07:37:52.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02azL5wHMoyWEmFfyFjkKevbCt7MgMMN2PPqZaYQBBDNbkn6zoGkgZZWchetsXKC2Ul&id=61581395369965"
+    },
+    {
+      "text": "🍝 มื้อพิเศษที่ลงตัว... ท่ามกลางบรรยากาศสุดฟินที่เขาค้อ! ✨\n\nถ้าคุณกำลังมองหาร้านอาหารที่ตอบโจทย์ทั้งรสชาติและการพักผ่อน LinnyLand Fun and Farm พร้อมเสิร์ฟความอร่อยที่พิถีพิถันทุกขั้นตอน ตั้งแต่การคัดสรรวัตถุดิบไปจนถึงการจัดจานที่สวยงาม เพื่อให้มื้อธรรมดาของคุณกลายเป็น \"มื้อที่พิเศษที่สุด\"\n\nไฮไลท์เมนูแนะนำที่ห้ามพลาด:\n\n    🍤 สปาเกตตีซอสเข้มข้น กุ้งตัวโต: เส้นเหนียวนุ่มคลุกเคล้าซอสสูตรเฉพาะ รสชาติกลมกล่อม จัดเต็มด้วยกุ้งแม่น้ำไซส์บิ๊ก เนื้อเด้ง สดใหม่ทุกจาน\n\n    🥓 หมูกรอบสีทอง: หนังกรอบสนั่น เนื้อนุ่มชุ่มฉ่ำ ทานคู่กับน้ำจิ้มแจ่วรสเด็ด บอกเลยว่าชิ้นเดียวไม่เคยพอ!\n\n    🍖 ขาหมูเยอรมันคุโรบูตะ: เมนูซิกเนเจอร์ที่ทอดจนกรอบนอกนุ่มใน เสิร์ฟพร้อมเครื่องเคียงและซอส 3 สไตล์ อร่อยจนต้องยกนิ้วให้\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n(ใกล้ลานจอดรถภูหินยักษ์ เดินทางสะดวก วิวสวยสะกดตา)\n\n⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n📞 สำรองที่นั่ง/สอบถามเส้นทาง: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nหนีความวุ่นวาย มาเติมพลังด้วยอาหารอร่อยๆ และสูดอากาศบริสุทธิ์ให้เต็มปอดที่ LinnyLand นะคะ แล้วเจอกันค่ะ! ❤️\n\n#LinnyLand #ร้านอาหารเขาค้อ #รีวิวเขาค้อ #สปาเกตตีกุ้งแม่น้ำ #ขาหมูเยอรมัน #ที่กินเขาค้อ #เพชรบูรณ์ #เข็กน้อย #อร่อยบอกต่อ",
+      "images": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/650396771_122125598895046512_5698930459419606314_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=P39o7XHdAaoQ7kNvwFMgt11&_nc_oc=AdqLOXDNGoI4hqrHVMjl3ofaFgiWdCT0JLfoKDMKP896an04N_FiJJFnbtBl__m-HO0&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2Vial9Dfb59gXQZWqLdY8HL6NT6o-TqbFEEoLiUtV_wg&oe=69D4019D"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-14T06:29:34.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0f8vMiywUc26DEZanLWwA2xDZySiuaQUh9F28EvBKhnVGgcyj3TRRFMzjwVvv6RFol&id=61581395369965"
+    },
+    {
+      "text": "🥤 สดชื่นนนน! เติมพลังกาย พลังใจ ไปกับวิวหลักล้านที่ LinnyLand 🏔️☀️\n\nเหนื่อยจากงาน อยากพักสายตา หรือกำลังมองหาที่เช็คอินใหม่ๆ ที่ถ่ายรูปสวยทุกมุม? แวะมาหาเราที่ LinnyLand Fun and Farm สิครับ! 🍃\n\nไม่ว่าคุณจะเป็นสาย Coffee Lover อยาก \"จิบกาแฟแลวิวเขา\" นั่งมองหมอกไหลผ่านทิวเขาแบบสโลว์ไลฟ์ หรือจะเป็นสาย Healthy ที่ต้องการความเฟรชกับ \"ชาผลไม้สกัดเย็น\" สูตรพิเศษที่อัดแน่นด้วยผลไม้สดชื่นเต็มคำ บอกเลยว่าที่นี่คือคำตอบ!\n\n🍹 Highlight ที่ห้ามพลาด:\n\n    ชาผลไม้สกัดเย็น: สีสันสดใส รสชาติเปรี้ยวหวานลงตัว ดื่มแล้วตื่นแน่นอน\n\n    เมนูเครื่องดื่มสุดครีเอทีฟ: เสิร์ฟมาในแก้วดีไซน์เก๋ พร้อมท็อปปิ้งจุกๆ ถ่ายรูปลง IG คือปัง!\n\n    บรรยากาศซุ้มไม้ไผ่: นั่งรับลมเย็นๆ มองวิวเขาค้อแบบพาโนรามา พักผ่อนได้ยาวๆ ทุกวัน\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n(ใกล้กับลานจอดรถภูหินยักษ์ เดินทางสะดวกมาก!)\n⏰ เปิดให้บริการทุกวัน: 09:00 – 18:00 น.\n📞 โทร: 090-824-2641\nFB: LinnyLand Fun and Farm\n\nแท็กเพื่อน อ้อนแฟน แล้วตามมาเช็คอินความสดชื่นด้วยกันที่เขาค้อนะครับ! 👇\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #คาเฟ่เขาค้อ #รีวิวเขาค้อ #ชาผลไม้สกัดเย็น #เข็กน้อย #เพชรบูรณ์ #ที่พักเขาค้อ #สดชื่นนนน",
+      "images": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/651333375_122125484625046512_4017060291609631517_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=KYn_z_S806UQ7kNvwF3Luvi&_nc_oc=AdrvO-yRT3cG1eDB2QIWDJ8onJi4GggJmXOUpdGSaZz8CT83lK24UBHJPLkgAnUiJNQ&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2XpcHezMYOyIrqArNcXAOI9TbKNoxzDwWosDwhNAVmJQ&oe=69D40319"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-13T04:42:19.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid025zGwynw1DuW453wBVSR7onadwyeUTkDFhMhTGhzU4q6GxgyWaShzWaBTg1coSHLxl&id=61581395369965"
+    },
+    {
+      "text": "🌶️ แซ่บซี๊ด..โดนใจ! ยกขบวนความนัวมาไว้ที่ LinnyLand Fun and Farm 🎡\n\nสายแซ่บต้องหยุดดู! ถ้าคุณกำลังมองหาความซาบซ่าถึงใจ ท่ามกลางบรรยากาศชิลล์ๆ ของเขาคอ บอกเลยว่าร้านเราจัดให้แบบ \"เครื่องแน่น จัดเต็ม\" จนคำเดียวไม่เคยพอ!\n✨ เมนูไฮไลท์ที่ต้องลอง:\n\n    ยำหมูยอเนื้อเด้ง: คลุกเคล้าน้ำยำรสเด็ด เปรี้ยว เผ็ด เค็ม หวาน ลงตัวสุดๆ\n\n    กุ้งแช่น้ำปลา: กุ้งสดตัวโต ท็อปด้วยกระเทียมฝานและน้ำจิ้มซีฟู้ดรสจัดจ้าน\n\n    ตำนัว/ยำรวมมิตร: เครื่องแน่นล้นจาน วัตถุดิบสดใหม่ อร่อยจนต้องสั่งเบิ้ล!\n\n📍 ปักหมุดความอร่อย:\n\n🌿 LinnyLand Fun and Farm ตั้งอยู่ที่ ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้ลานจอดรถงูหินยักษ์)\n\n    ⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n\n    📞 สำรองที่นั่ง/สอบถาม: 090-824-2641\n\n    🗺️ ที่ตั้ง: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n\nไม่ว่าจะมาเที่ยวเขาค้อกับครอบครัว หรือแวะพักเหนื่อยระหว่างทริป อย่าลืมแวะมาเติมความแซ่บกันที่นี่นะคะ การันตีความฟินในทุกคำ! 🔥\n\n#LinnyLand #ของดีเขาค้อ #ยำรสเด็ด #ส้มตำเขาค้อ #เที่ยวเขาค้อ #เพชรบูรณ์กินอะไรดี #แซ่บซี๊ดโดนใจ",
+      "images": [
+        "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/649200277_122125259247046512_3082780590433498075_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_ohc=_2NUlZiCaNIQ7kNvwHBwntw&_nc_oc=AdqopcHgW-boM4WxzRLNKYkukD0q1jx-Jt8cpFIFu4MqqM_QOblP2aHPI9ltgDOYmaQ&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&_nc_gid=qGlChcl8GfWRC-u0CSyMig&_nc_ss=7a389&oh=00_Af2cwzXJiG5YgW42gPvMjZFHKFquNS1qqyuIIsLc5IG0vg&oe=69D3E53D"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-11T06:08:50.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02J9Z6hPNSoB7yH51pqYTpgzJPeDG2YSu9zFxEXMkRQfS1cUnUXPFPZHHiviKVarmBl&id=61581395369965"
+    },
+    {
+      "text": "🍖 กรอบนอกนุ่มใน... เกินต้านทาน! ขาหมูเยอรมันไซส์ยักษ์ พร้อมเสิร์ฟความฟินแล้วที่ LinnyLand! 🇩🇪✨\n\nสายกินต้องรีบมาเช็คอิน! สัมผัสประสบการณ์ความอร่อยแบบเต็มคำกับ \"ขาหมูเยอรมันไซส์บิ๊ก\" สูตรเด็ดเฉพาะตัวของเรา ที่เราคัดสรรขาหมูคุณภาพดี นำไปทอดจนหนังฟู กรอบสนั่นถึงใจ แต่เนื้อข้างในยังนุ่มฉ่ำ ไม่แห้งกระด้าง!\n\n🔥 ไฮไลท์ความอร่อยที่คุณห้ามพลาด:\n\n    หนังฟูกรอบ: ทอดร้อนๆ กัดแล้วกรุ๊ปเพลินจนหยุดไม่ได้\n\n    ไซส์บิ๊กเบิ้ม: จานใหญ่สะใจ อิ่มได้ทั้งครอบครัว\n\n    เครื่องเคียงจัดเต็ม: เสิร์ฟพร้อมเฟรนช์ฟรายส์ทอดใหม่ๆ และน้ำจิ้มสูตรเด็ดที่ตัดเลี่ยนได้อย่างลงตัว\n\nไม่ว่าจะมาเที่ยวเขาค้อกับแก๊งเพื่อน หรือมาพักผ่อนกับครอบครัว เมนูนี้คือ \"Must Try\" ที่ต้องมีติดโต๊ะ! ท่ามกลางบรรยากาศดีๆ ที่ LinnyLand Fun and Farm\n\n📍 พิกัดความอร่อย:\n389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n(ใกล้ลานจอดรถถงงูหินยักษ์)\n\n⏰ เวลาทำการ: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n📞 โทรสำรองโต๊ะ/สอบถาม: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\n#LinnyLand #ขาหมูเยอรมัน #อร่อยบอกต่อ #เขาค้อ #ที่กินเขาค้อ #เพชรบูรณ์ #รีวิวอาหาร #กรอบนอกนุ่มใน #KhaoKho",
+      "images": [
+        "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/649141435_122124928845046512_143228671449207487_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=weERmy_nhzMQ7kNvwEmbveF&_nc_oc=AdoBiCzjlIDevAY8JGYH2oYCWc3tpSZtVjQMPrI25X6pZYHst2GoyxDA_i8odvHYMYM&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=O29GR76FpZmjIuUxN1q09g&_nc_ss=7a389&oh=00_Af3vlmi-btqhCZX27pBJ2GeXA2bKmlBhbtst0GEK9zVDpA&oe=69D3E9DD"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-09T03:00:50.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0KdBBijd1uk6cEqzNucnwjsdFYKXnxmvxP1Mj6Es5KKim79Pe7p7qSydUkzv6m7jal&id=61581395369965"
+    },
+    {
+      "text": "🥤✨ เดินถือกินแบบฟินๆ ครบจบในแก้วเดียวที่ LinnyLand! 🍟🔥\n\nสายเที่ยว สายกิน ต้องกดเลิฟ! ❤️ ใครที่ชอบเดินเล่นไป กินไป แบบไม่ต้องกลัวหก ไม่ต้องถือหลายมือ ต้องมาลอง \"คอมโบแก้วคู่ใจ\" จาก LinnyLand Fun and Farm ที่รวม \"ของทอดร้อนๆ\" และ \"น้ำซ่าสดชื่น\" ไว้ด้วยกันในแก้วเดียว!\n🌟 ทำไมต้องมาลอง?\n\n    ความสะดวกระดับ 10: ด้านบนเป็นถาดของทอดจิ้มซอสฉ่ำๆ ด้านล่างเป็นเครื่องดื่มเย็นเจี๊ยบ ถือแก้วเดียวเดินเที่ยวต่อได้ยาวๆ ไม่ขัดจังหวะความสนุก\n\n    เมนูหลากหลาย: เลือกมิกซ์ได้ตามใจชอบ ไม่ว่าจะเป็น เฟรนช์ฟรายส์เหลืองกรอบ, ไก่นักเก็ตพอดีคำ หรือไก่ทอดซอสเกาหลีรสเข้มข้น\n\n    ความสดชื่น: จับคู่กับน้ำอัดลมหรืออิตาเลียนโซดาสีสวย ตัดเลี่ยนได้แบบลงตัวสุดๆ\n\n    ถ่ายรูปสวย: สีสันสดใส ถ่ายรูปลงโซเชียลมุมไหนก็ปัง!\n\n📍 ปักหมุดมาจอยกันได้ที่:\n\n    สถานที่: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้กับลานจอดรถภูหินยักษ์)\n\n    เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n\n    ติดต่อสอบถาม: 090-824-2641\n\n    Facebook: LinnyLand Fun and Farm\n\nแวะมาเติมพลังด้วยของอร่อยก่อนออกไปตะลุยเที่ยวเขาค้อกันนะครับ! ของทอดร้อนๆ รอเสิร์ฟทุกคนอยู่จ้า 💨🍟🥤\n\n#LinnyLand #ของดีเขาค้อ #เดินไปกินไป #รีวิวเขาค้อ #ที่เที่ยวเพชรบูรณ์ #ของทอด #เครื่องดื่มสดชื่น #LinnyLandFunAndFarm #KhaoKho",
+      "images": [
+        "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/648845505_122124928251046512_1429403350404936489_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=vjYUfj81XAgQ7kNvwHHFHi2&_nc_oc=AdpyoGcMUhajFzFgRTiY4VAX18WZJJDaTvqaCyF6nMd_WDT1b4Nu88aJjWg6LFnhcYI&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=O29GR76FpZmjIuUxN1q09g&_nc_ss=7a389&oh=00_Af3jErIl4E85eUONEY09hcD34ix2nxrdcswN9vJDclK9jg&oe=69D3E83A"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-08T11:10:45.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02nppnFFd7huTxzPnGb6fzpnc61wi9LwXCyNGDc3da8Q2nh1TRPbQS9xc3h2BMdizdl&id=61581395369965"
+    },
+    {
+      "text": "แจ่วฮ้อนอร่อย วิวหลักล้าน  ห้ามพลาด ที่ลินนี่แลนด์ ฟัน แอนด์ ฟาร์ม เขาค้อ สนามลูจแห่งแรกของเพชรบูรณ์\nสำรองที่นั่ง ติดต่อ 090-824-2641\nLine id : @linnyland\n\n#แจ่วฮ้อน #เขาค้อ #เพชรบูรณ์ #อร่อยเขาค้อ #ลูจ #ทะเลหมอก #luge",
+      "images": [],
+      "likes": 5,
+      "shares": 16,
+      "time": "2026-03-08T06:58:24.000Z",
+      "url": "https://www.facebook.com/reel/1827079231302435/"
+    },
+    {
+      "text": "🏔️ วิวหลักล้าน อาหารหลักร้อย! สัมผัสปุยหมอกและลมหนาวที่เขาค้อ 🌤️\n\nหยุดพักความวุ่นวาย แล้วมาเติมพลังกายพลังใจที่ LinnyLand Fun and Farm 🌿 สถานที่ที่จะทำให้มื้ออาหารธรรมดาของคุณกลายเป็นมื้อที่พิเศษที่สุด ด้วยวิวทิวทัศน์ยอดเขาค้อแบบ Panorama 360 องศา ที่มองเห็นถนนเส้นคดเคี้ยวท่ามกลางหุบเขาเขียวขจี บอกเลยว่า \"ฟินจนไม่อยากกลับ!\"\n\n🍽️ ไฮไลท์ห้ามพลาด:\n\n    เมนูกระทะร้อน: เสิร์ฟร้อนๆ ควันฉุย กลิ่นหอมยั่วยวนใจ ทานคู่กับไข่ดาวเยิ้มๆ ท่ามกลางอากาศเย็นสบายบนยอดเขา\n\n    ส้มตำปูม้าแซ่บๆ: ความซี้ดซ้าดที่ตัดกับบรรยากาศสุดชิลล์ รสชาติจัดจ้านถึงใจ วัตถุดิบสดใหม่ทุกจาน\n\n    ที่นั่งซุ้มไม้ไผ่สุดคลาสสิก: ให้ความรู้สึกใกล้ชิดธรรมชาติ ถ่ายรูปมุมไหนก็ปัง รับรองยอดไลก์กระจาย!\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n(ใกล้กับลานจอดรถกังหันยักษ์ เดินทางสะดวก วิวสวยตลอดทาง)\n\n⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดให้บริการทุกวัน)\n📞 ติดต่อสอบถาม/จองโต๊ะ: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nจะมากับแฟนก็โรแมนติก มากับครอบครัวก็อบอุ่น หรือจะมากับแก๊งเพื่อนก็สนุก! แท็กเพื่อน ทักแชทชวนแฟน แล้วปักหมุดมาเจอกันที่ LinnyLand นะคะ ❤️\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #ร้านอาหารเขาค้อ #วิวหลักล้าน #กระทะร้อน #ส้มตำแซ่บ #เพชรบูรณ์ #KhaoKho #ReviewThailand",
+      "images": [
+        "https://scontent.fric1-2.fna.fbcdn.net/v/t39.30808-6/647145432_122124803283046512_4720706191216471644_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=aaC-78vY3aEQ7kNvwE5dTMD&_nc_oc=Adojqc430fiUqB8JavfkCcK97SdngUEx4OJXzpqwWPP4lzH5LalUeVYGVMsOYnpwiVQ&_nc_zt=23&_nc_ht=scontent.fric1-2.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af2GaxQ3C6OmHs7m404SF25nDQdyXnvmERm1m-Wi_XM1JA&oe=69D3F5D5"
+      ],
+      "likes": 1,
+      "shares": 1,
+      "time": "2026-03-07T06:11:35.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0T5RvJ8W6Ecaz8FxGphDFNeipY4XerCJeEKKWqs7gUcCYMyr5SaVZdaBVDPFMkM8ql&id=61581395369965"
+    },
+    {
+      "text": "🍲 หนาวนี้ที่เขาค้อ... แจ่วฮ้อนหม้อไฟ กับวิวหลักล้านที่รอคุณอยู่! 🏔️✨\n\nเปลี่ยนมื้อธรรมดาให้กลายเป็นความทรงจำสุดพิเศษ พักผ่อนเอนกายใน \"ซุ้มส่วนตัว\" ท่ามกลางอ้อมกอดของขุนเขาและสายลมเย็นๆ สัมผัสอากาศบริสุทธิ์แบบเต็มปอด พร้อมดื่มด่ำกับทัศนียภาพสีเขียวขจีที่มองไปทางไหนก็สบายตา 🌿\n🌟 ไฮไลท์ที่ไม่ควรพลาด:\n\n    รสชาติเด็ดดวง: แจ่วฮ้อนน้ำซุปเข้มข้น หอมสมุนไพรไทย เสิร์ฟพร้อมวัตถุดิบคุณภาพเน้นๆ สายกินบอกเลยว่าฟินถ้วนหน้า!\n\n    บรรยากาศสุด Chill: นั่งทานในซุ้มไม้ส่วนตัว มีม่านสีขาวละมุนตา ได้ความเป็นส่วนตัวสุดๆ จะมากับแฟนก็โรแมนติก มากับครอบครัวก็อบอุ่น\n\n    วิวพาโนรามา: นั่งทานไป ดูวิวถนนเส้นสวยและภูเขาไป ถ่ายรูปมุมไหนก็สวยลงตัว\n\n📍 พิกัด: เขาค้อ จ.เพชรบูรณ์ ⛰️\n⏰ เปิดบริการทุกวัน: 09:00 – 18:00 น. (มาช่วงบ่ายๆ เย็นๆ แสงสวย อากาศกำลังดีเลยครับ)\n📞 จองซุ้ม/สอบถามเส้นทาง: 090-824-2641\n\nหนีความวุ่นวาย แล้วมาเติมพลังกาย พลังใจ ด้วยมื้ออร่อยและอากาศดีๆ ที่นี่ด้วยกันนะคะ/ครับ! 👇\n\n#เขาค้อ #ที่เที่ยวเขาค้อ #แจ่วฮ้อนเขาค้อ #รีวิวเพชรบูรณ์ #ร้านอาหารอากาศดี #จุดเช็คอินเขาค้อ #กินเที่ยวไทย #แจ่วฮ้อนรสเด็ด",
+      "images": [
+        "https://scontent.fric1-1.fna.fbcdn.net/v/t39.30808-6/646201171_122124694209046512_9219658179131622654_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=b8Fpfk0OBZ8Q7kNvwEzA-ja&_nc_oc=AdqNklteHEKYgqe6UuCnSsqGgWDhGdxWq7G_OUapVfbOIX1j-SV8l1e4N6OaZdJXqu4&_nc_zt=23&_nc_ht=scontent.fric1-1.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af0J6Nhv5aG7Nc_esSl5FMs0YajnSsXg-ZEi4d0elvK0bg&oe=69D3DCF3"
+      ],
+      "likes": 0,
+      "shares": 0,
+      "time": "2026-03-06T03:05:37.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0GTV7H5oCEJWgqEkG46694i6GJRmggvHrds2ne4zXBRkqj7cEtYUZ5aqemCZHPCfSl&id=61581395369965"
+    },
+    {
+      "text": "🌅 \"เปลี่ยนมื้อธรรมดา ให้เป็นความทรงจำที่ลืมไม่ลง... ที่กรุงทอง\" 🍲✨\n\nสัมผัสประสบการณ์การทาน แจ่วฮ้อนพรีเมียม ท่ามกลางบรรยากาศที่หาจากไหนไม่ได้! เมื่อความอร่อยระดับคัดสรรมาเจอกับวิวภูเขาแบบพาโนรามาและแสงอาทิตย์ลับขอบฟ้า บอกเลยว่านี่ไม่ใช่แค่การทานข้าว แต่คือการให้รางวัลตัวเองอย่างแท้จริง\n\nทำไมต้องมาเช็คอินที่นี่?\n\n    🥩 วัตถุดิบระดับพรีเมียม: เซตเนื้อและหมูจัดแต่งมาอย่างประณีตในกรงทองสุดหรู พร้อมน้ำซุปแจ่วฮ้อนรสเข้มข้น หอมสมุนไพรแบบฉบับต้นตำรับ\n\n    📸 วิวหลักล้าน: นั่งทานในกระโจมส่วนตัว มองเห็นทิวเขาเขียวขจีและทะเลหมอก (ในวันใจดี) ถ่ายรูปมุมไหนก็สวยแพงจนเพื่อนต้องทัก\n\n    🍃 บรรยากาศสุดฟิน: ลมพัดเย็นสบาย อากาศบริสุทธิ์ของเขาค้อ จะมากับคนรักก็โรแมนติก หรือมากับครอบครัวก็อบอุ่น\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์\n⏰ เปิดให้บริการทุกวัน: 09:00 - 18:00 น.\n📞 จองโต๊ะ/สอบถามเส้นทาง: 090-824-2641\n\nหนาวนี้... ให้แจ่วฮ้อนอุ่นๆ และวิวสวยๆ เยียวยาหัวใจคุณที่กรุงทองนะครับ 🧡\n\n#แจ่วฮ้อนกรุงทอง #เขาค้อ #ที่กินเขาค้อ #รีวิวเพชรบูรณ์ #แจ่วฮ้อนพรีเมียม #วิวหลักล้าน #KhaoKho #อร่อยบอกต่อ",
+      "images": [
+        "https://scontent.fric1-1.fna.fbcdn.net/v/t39.30808-6/644879589_122124586443046512_8590790398620424150_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=rXA91e_iNk8Q7kNvwGWMgAV&_nc_oc=AdqRn4dPd4ftUkYq2rw8FxaV0591QhS2Q66hCv-PoALp2OYTLNG66VnjqDB-3sBjelo&_nc_zt=23&_nc_ht=scontent.fric1-1.fna&_nc_gid=IF5b-0vR79hLKp3rDlc5zg&_nc_ss=7a389&oh=00_Af3CWeUQHfYcDSWD4QiuL62FDRo5ycMUPi_MOiBTxI8l-Q&oe=69D3D8A5"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-05T09:31:26.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Lmo3EN1YDRJdQxfWyN5HuNXjgbxNe1TKtm1WGSmvBgk9rjdL9Jacbj6qKc1DPXiJl&id=61581395369965"
+    },
+    {
+      "text": "🍲 สูตรลับเคี่ยวข้ามคืน! สัมผัสรสชาติระดับพรีเมี่ยมที่ \"แจ่วฮ้อนกรงนกทองคำ\" ✨\n\nสายกินต้องไม่พลาด! ถ้าคุณกำลังมองหามื้อพิเศษที่ผสมผสานระหว่าง \"รสชาติพื้นบ้านที่เข้มข้น\" กับ \"ความหรูหราที่ลงตัว\" ต้องมาลองเมนูซิกเนเจอร์ของเราที่ LinnyLand Fun and Farm 🌿\n🌟 ทำไมต้องเป็นแจ่วฮ้อนกรงนกทองคำ?\n\n    น้ำซุปสูตรลับ: เราพิถีพิถันเคี่ยวเครื่องเทศสมุนไพรสดๆ ข้ามคืน เพื่อให้ได้น้ำซุปที่หอมกรุ่น เข้มข้นถึงใจ ซึมลึกเข้าถึงเนื้อทุกชิ้น\n\n    วัตถุดิบคุณภาพ: คัดสรรเนื้อสไลด์นุ่มๆ และปลาสดตัวโต เสิร์ฟคู่กับผักออร์แกนิคสดจากฟาร์ม\n\n    การนำเสนอที่ไม่เหมือนใคร: ยกระดับความอร่อยด้วยการเสิร์ฟใน \"กรงนกทองคำ\" สุดอลังการ ถ่ายรูปสวยเป๊ะทุกมุม จะสายกินหรือสายคอนเทนต์ก็แฮปปี้!\n\n    บรรยากาศเขาค้อ: ดื่มด่ำรสชาติเผ็ดร้อนของแจ่วฮ้อน ท่ามกลางอากาศเย็นสบายและวิวธรรมชาติสวยๆ ของตำบลเข็กน้อย\n\n📍 พิกัดความอร่อย:\n\n    สถานที่: LinnyLand Fun and Farm (389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์)\n\n    จุดสังเกต: ใกล้หินงูยักษ์\n\n    เวลาเปิด-ปิด: 09:00 - 18:00 น. (เปิดบริการทุกวัน)\n\n📞 สำรองที่นั่ง/สอบถามเพิ่มเติม:\n\n    โทร: 090-824-2641\n\n    Facebook: LinnyLand Fun and Farm\n\nชวนครอบครัว แท็กเพื่อน หรือพาคนรู้ใจมา \"ชิมแล้วจะรัก\" กับแจ่วฮ้อนที่พิเศษที่สุดในเขาค้อกันนะครับ! ♨️🥬🥩\n\n#LinnyLandFunAndFarm #แจ่วฮ้อนกรงนกทองคำ #รีวิวเขาค้อ #ของดีเขาค้อ #เข็กน้อย #เพชรบูรณ์ #แจ่วฮ้อนสูตรเด็ด #เขาค้อกินอะไรดี",
+      "images": [
+        "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/644937562_122124221847046512_811664338748332659_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=eSMkBxQ4VqUQ7kNvwFdsCtJ&_nc_oc=AdqbdJVRe-uSjijS5XbuARMQQL9pu5jtqv7JfJLXI_5NvDuhKAHHhAAsbyE8G8IIKNg&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af0MZAhGQGjXgu-6ofz_e11XVj_IzK-he95-1p_2VHdjAg&oe=69D407CC"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-04T03:00:16.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02RsCxFMfk2GCrofUjtnE6npAy3xkQx3hU4zjnfViyvQiA7Dsp3TAQYiv8kAhxTBjrl&id=61581395369965"
+    },
+    {
+      "text": "นี่คือแคปชั่นแบบจัดเต็มที่ดึงดูดทั้งสายกิจกรรมและสายกิน ครบทุกมิติของ LinnyLand Fun and Farm ครับ:\n🏎️ ขับลูจชมวิว..แล้วต่อด้วยจิ้มจุ่มสุดฟิน! พักผ่อนแบบครบจบที่ LinnyLand Fun and Farm เขาค้อ 🌿✨\n\nวันหยุดนี้ถ้ายังไม่มีแพลนไปไหน... พากันมายกบ้านมาเช็คอินที่ LinnyLand Fun and Farm เลย! ที่เดียวที่รวมความตื่นเต้นของกิจกรรม Outdoor และความอร่อยแบบพรีเมี่ยมไว้ด้วยกัน ท่ามกลางบรรยากาศขุนเขาและเหล่าน้องสัตว์สุดน่ารัก 🐰🐷\n\nไฮไลท์ที่ไม่ควรพลาด:\n\n    🏎️ เล่นลูจ (Luge) สุดฟิน: ปล่อยใจไปกับความเร็วบนทางลาดชัน พร้อมชมวิวหลักล้านของเขาค้อแบบพาโนรามา สนุกได้ทุกวัย!\n\n    🥘 เติมพลังด้วย \"แจ่วฮ้อนสูตรพรีเมี่ยม\": ทีเด็ดอยู่ที่น้ำซุปเข้มข้นและวัตถุดิบคุณภาพ เสิร์ฟมาในชั้นวางกรงนกสุดเก๋ ถ่ายรูปสวย แถมรสชาติแซ่บถึงใจ\n\n    🐐 ใกล้ชิดธรรมชาติ: เพลิดเพลินกับฟาร์มสัตว์ตัวน้อย ทั้งน้องกระต่าย น้องแพะ และผองเพื่อน ที่จะมาขโมยหัวใจทุกคนในครอบครัว\n\n📍 พิกัด: 389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ (ใกล้หินงูยักษ์)\n⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดทุกวัน)\n📞 โทร: 090-824-2641\n🔵 Facebook: LinnyLand Fun and Farm\n\nจะมากับแก๊งเพื่อนก็มันส์ หรือมากับครอบครัวก็อบอุ่น รีบแท็กคนข้างๆ แล้วสตาร์ทรถมาเที่ยวกันเลย! 🚗💨\n\n#LinnyLand #เขาค้อ #ที่เที่ยวเขาค้อ #รีวิวเขาค้อ #แจ่วฮ้อน #ลูจเขาค้อ #ฟาร์มสัตว์ #Phetchabun #TravelThailand ##ที่เที่ยวระยอง",
+      "images": [
+        "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/645640477_122124221379046512_394121798826964707_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=MtD-mwHwXPkQ7kNvwGLOmsY&_nc_oc=Adrb-R4cWBZJatBzr44mzN1qfPR0apw2Kpjldo8FmupKbkduQqpJFCWctArl3Ot70iU&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af2jaq33miJMvf3N8EeP2vYyfSox94hP-Ul9W5YpQl65Mg&oe=69D3E9A2"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-03T03:00:21.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0dupoX3cCEedcyYmb9yMCZZpkRczVxDLmLXXvbAe8fJPV1yrJmBB9i8E75bdvrBpzl&id=61581395369965"
+    },
+    {
+      "text": "🍲 แจ่วฮ้อนวิวหลักล้าน! สัมผัสรสชาติความแซ่บ ท่ามกลางสายหมอกที่เขาค้อ ⛰️✨\n\nถ้าหัวใจมันเซ... ให้แจ่วฮ้อนร้อนๆ เยียวยาดีกว่า! ใครมาเขาค้อแล้วไม่ได้แวะที่นี่ บอกเลยว่าพลาดมาก กับ \"ชุดแจ่วฮ้อนสูตรลับ\" ที่เสิร์ฟมาพร้อมกับความพรีเมียมและความฟินแบบตะโกน!\n✨ ทำไมต้องมาเช็คอินที่นี่?\n\n    รสชาติที่หาจากไหนไม่ได้: น้ำซุปเข้มข้น หอมสมุนไพรเตะจมูก ซดร้อนๆ ท่ามกลางอากาศเย็นๆ ของเขาค้อคือที่สุด!\n\n    วัตถุดิบคุณภาพ: เนื้อหมูนุ่มๆ เสิร์ฟมาในกรงทองสุดหรู พร้อมผักสดและวุ้นเส้น ทานคู่กับน้ำจิ้มแจ่วรสเด็ด\n\n    วิวหลักล้าน: นั่งทานในซุ้มไม้ไผ่สุดส่วนตัว มองเห็นวิวทุ่งหญ้าและขุนเขาเขียวขจีแบบพาโนรามา ถ่ายรูปมุมไหนก็ปัง!\n\n    บรรยากาศสุดชิล: ลมพัดเย็นสบาย เหมาะกับการพาครอบครัวมาพักผ่อน หรือจะมาสวีทกับหวานใจก็โรแมนติกสุดๆ\n\n📍 พิกัด: LinnyLand Fun and Farm (389 ต.เข็กน้อย อ.เขาค้อ จ.เพชรบูรณ์ ใกล้หินงูยักษ์)\n⏰ เวลาเปิด-ปิด: 09:00 – 18:00 น. (เปิดทุกวัน)\n📞 สำรองที่นั่ง/สอบถาม: 090-824-2641\n📱 Facebook: LinnyLand Fun and Farm\n\nอย่าปล่อยให้ความหิวครอบงำ แท็กเพื่อน แท็กแฟน แล้วรีบพุ่งตัวมาพิสูจน์ความอร่อยด้วยกันนะครับ! 👇\n\n#LinnyLand #เขาค้อ #แจ่วฮ้อนเขาค้อ #ที่เที่ยวเขาค้อ #รีวิวเขาค้อ #แจ่วฮ้อนวิวหลักล้าน #ร้านอาหารเขาค้อ #เพชรบูรณ์ #KhaoKho",
+      "images": [
+        "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/645578736_122124220743046512_8078459594561536980_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=13d280&_nc_ohc=wFSBCJC_zOIQ7kNvwHR5fb6&_nc_oc=AdpODm4ARZEpwCilRjRoGV-peNGOgxNHVPrvqcdycmmqBNNRRCXsWYdvWKhnMsMocMs&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=yq3oJkzc0eA47fGZ8dWNAg&_nc_ss=7a389&oh=00_Af0blc656vguxtYvFUzxn4916tv1YojfHFiRSaO32gQnww&oe=69D4096E"
+      ],
+      "likes": 1,
+      "shares": 0,
+      "time": "2026-03-02T04:05:35.000Z",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0aVib7QX2B1VQ1rmEAAo2s6MhE8dwN6TrjmvtN7gVvFk9VPt9dZuHw7rGowE3MTHnl&id=61581395369965"
+    }
+  ],
+  "total_images_found": 29
+}
