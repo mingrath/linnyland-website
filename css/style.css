@@ -485,7 +485,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.55);
   z-index: 1;
 }
 .features-content .features-img img {
@@ -499,7 +499,11 @@ body {
   top: 50%;
   transform: translateY(-50%);
   max-width: 500px;
-  padding: 2rem;
+  padding: 2.5rem;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 1rem;
 }
 .features-txt.right {
   right: 8%;
@@ -696,11 +700,12 @@ body {
   color: var(--color-black);
 }
 .ski-valet__description p {
-  font-family: var(--font-title);
-  font-size: 1rem;
+  font-family: var(--font-sans-serif);
+  font-size: 1.125rem;
+  font-weight: 400;
   line-height: 2;
   text-align: center;
-  color: #3E6B3E;
+  color: var(--color-black);
   max-width: 700px;
   margin: 0 auto;
 }
@@ -759,7 +764,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.1) 100%);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.35) 40%, rgba(0, 0, 0, 0.2) 100%);
   z-index: 1;
   pointer-events: none;
 }
@@ -780,6 +785,7 @@ body {
   color: var(--color-white);
   margin-bottom: 1rem;
   letter-spacing: 0.02em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
 }
 .rooms .rooms-swiper .slide-txt__description .detail {
   font-family: var(--font-title);
