@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-04-02T09:27:22Z",
+  "phase": "1",
+  "phase_name": "initial-build",
+  "phase_dir": ".",
+  "plan": 1,
+  "task": 5,
+  "total_tasks": 7,
+  "status": "paused",
+  "completed_tasks": [
+    {"id": 1, "name": "Scrape AYA Niseko reference site (HTML/CSS/JS)", "status": "done"},
+    {"id": 2, "name": "Build 3-file replica with placeholder content", "status": "done", "commit": "86e4632"},
+    {"id": 3, "name": "Scrape LinnyLand FB page via Apify (30 posts, 29 images, contact info)", "status": "done"},
+    {"id": 4, "name": "Apply LinnyLand branding, Thai content, fun/nature palette, FB images", "status": "done", "commit": "86e4632"},
+    {"id": 5, "name": "Fix visual flaws (letter animation, overlays, text shadows, contrast, SEO)", "status": "done", "commit": "5384de2"}
+  ],
+  "remaining_tasks": [
+    {"id": 6, "name": "Replace FB ad creative images with clean original photos from Ohm", "status": "not_started"},
+    {"id": 7, "name": "Final polish — mobile testing, performance audit, custom domain", "status": "not_started"}
+  ],
+  "blockers": [
+    {"description": "FB images are social media ad creatives with baked-in Thai text/stickers — not clean photos", "type": "human_action", "workaround": "Dark overlays + frosted glass text containers applied as interim fix"},
+    {"description": "Operating hours unknown — not listed on FB page", "type": "human_action", "workaround": "Omitted from FAQ for now"},
+    {"description": "linnyland.com is 404 (Wix not built) — this site could BE the website", "type": "external", "workaround": "Deployed to Cloudflare Pages instead"}
+  ],
+  "human_actions_pending": [
+    {"action": "Provide 8-12 original high-res photos (not FB ad graphics)", "context": "Hero slides, features, activities, facilities all need clean photos without text overlays", "blocking": false},
+    {"action": "Decide on color palette", "context": "Currently fun/nature (pink/yellow/green from logo). Confirm or adjust.", "blocking": false},
+    {"action": "Provide operating hours", "context": "Not listed on FB page, needed for FAQ and footer", "blocking": false},
+    {"action": "Confirm custom domain", "context": "Currently at linnyland-website.pages.dev, could point linnyland.com here", "blocking": false}
+  ],
+  "decisions": [
+    {"decision": "Replicated AYA Niseko site structure as template", "rationale": "Client wanted exact same effects/typography/layout", "phase": "1"},
+    {"decision": "Switched from luxury gold palette to fun/nature pink/yellow/green", "rationale": "LinnyLand is a theme park, not a luxury hotel — colors match the logo", "phase": "1"},
+    {"decision": "Renamed Rooms→Activities, Movies→Dining to fit theme park context", "rationale": "Original hotel sections don't apply to an amusement park", "phase": "1"},
+    {"decision": "Used FB post images as placeholders with heavy overlays", "rationale": "No original photos available yet, FB images are compressed ad creatives", "phase": "1"},
+    {"decision": "Deployed to Cloudflare Pages via Wrangler", "rationale": "Fast, free, global CDN, easy CLI deploy", "phase": "1"}
+  ],
+  "uncommitted_files": [],
+  "next_action": "Get original high-res photos from Ohm, replace FB ad images, redeploy",
+  "context_notes": "Site is fully functional and deployed. Lighthouse 100/100/100. Main visual issue is the FB ad creative images which have Thai text, stickers, and 'Liked by many' UI baked in. Once Ohm provides clean original photos the site will look dramatically better. The Playwright MCP has connection issues — use Firecrawl screenshots or restart Chrome for visual testing."
+}
